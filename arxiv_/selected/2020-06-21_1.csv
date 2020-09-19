@@ -1,0 +1,16 @@
+,id,title,authors,subjects,subject_split
+117,arXiv:2006.10408,"
+Title: Overcoming Classifier Imbalance for Long-tail Object Detection with  Balanced Group Softmax
+","
+Authors:
+Yu Li, 
+Tao Wang, 
+Bingyi Kang, 
+Sheng Tang, 
+Chunfeng Wang, 
+Jintao Li, 
+Jiashi Feng
+","
+Subjects: Computer Vision and Pattern Recognition (cs.CV); Machine Learning (cs.LG); Machine Learning (stat.ML)
+
+","['Computer Vision and Pattern Recognition (cs.CV)', 'Machine Learning (cs.LG)', 'Machine Learning (stat.ML)']"

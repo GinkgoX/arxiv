@@ -1,0 +1,69 @@
+,name,times
+0,Machine Learning (cs.LG),160
+1,Machine Learning (stat.ML),109
+2,Computer Vision and Pattern Recognition (cs.CV),64
+3,Computation and Language (cs.CL),19
+4,Artificial Intelligence (cs.AI),18
+5,Image and Video Processing (eess.IV),16
+6,Cryptography and Security (cs.CR),14
+7,Information Theory (cs.IT),14
+8,Data Structures and Algorithms (cs.DS),12
+9,Numerical Analysis (math.NA),12
+10,Systems and Control (eess.SY),12
+11,"Distributed, Parallel, and Cluster Computing (cs.DC)",10
+12,Information Retrieval (cs.IR),10
+13,Sound (cs.SD),10
+14,Audio and Speech Processing (eess.AS),10
+15,Optimization and Control (math.OC),10
+16,Robotics (cs.RO),9
+17,Software Engineering (cs.SE),8
+18,Computers and Society (cs.CY),8
+19,Signal Processing (eess.SP),8
+20,Social and Information Networks (cs.SI),7
+21,Discrete Mathematics (cs.DM),6
+22,Human-Computer Interaction (cs.HC),6
+23,Computer Science and Game Theory (cs.GT),6
+24,Multiagent Systems (cs.MA),6
+25,Physics and Society (physics.soc-ph),5
+26,Analysis of PDEs (math.AP),5
+27,Computation (stat.CO),4
+28,Statistics Theory (math.ST),4
+29,Digital Libraries (cs.DL),4
+30,Combinatorics (math.CO),4
+31,Probability (math.PR),4
+32,Logic in Computer Science (cs.LO),4
+33,Programming Languages (cs.PL),3
+34,Networking and Internet Architecture (cs.NI),3
+35,Applications (stat.AP),3
+36,Neural and Evolutionary Computing (cs.NE),3
+37,Computational Complexity (cs.CC),3
+38,Computational Geometry (cs.CG),3
+39,Computational Physics (physics.comp-ph),3
+40,Symbolic Computation (cs.SC),2
+41,Multimedia (cs.MM),2
+42,Graphics (cs.GR),2
+43,"Computational Engineering, Finance, and Science (cs.CE)",2
+44,Databases (cs.DB),2
+45,Methodology (stat.ME),2
+46,Category Theory (math.CT),1
+47,Mathematical Software (cs.MS),1
+48,General Economics (econ.GN),1
+49,History and Philosophy of Physics (physics.hist-ph),1
+50,Applied Physics (physics.app-ph),1
+51,Soft Condensed Matter (cond-mat.soft),1
+52,Cell Behavior (q-bio.CB),1
+53,Tissues and Organs (q-bio.TO),1
+54,Accelerator Physics (physics.acc-ph),1
+55,Algebraic Geometry (math.AG),1
+56,Quantitative Methods (q-bio.QM),1
+57,Other Computer Science (cs.OH),1
+58,Instrumentation and Methods for Astrophysics (astro-ph.IM),1
+59,Quantum Physics (quant-ph),1
+60,Differential Geometry (math.DG),1
+61,Instrumentation and Detectors (physics.ins-det),1
+62,High Energy Physics - Experiment (hep-ex),1
+63,Formal Languages and Automata Theory (cs.FL),1
+64,Chemical Physics (physics.chem-ph),1
+65,Fluid Dynamics (physics.flu-dyn),1
+66,Computational Finance (q-fin.CP),1
+67,Trading and Market Microstructure (q-fin.TR),1

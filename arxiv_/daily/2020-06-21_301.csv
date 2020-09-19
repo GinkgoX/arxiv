@@ -1,0 +1,3545 @@
+,id,title,authors,subjects,subject_split
+0,arXiv:2006.10742,"
+Title: Learning Invariant Representations for Reinforcement Learning without  Reconstruction
+","
+Authors:
+Amy Zhang, 
+Rowan McAllister, 
+Roberto Calandra, 
+Yarin Gal, 
+Sergey Levine
+","
+Subjects: Machine Learning (cs.LG); Artificial Intelligence (cs.AI); Machine Learning (stat.ML)
+
+","['Machine Learning (cs.LG)', 'Artificial Intelligence (cs.AI)', 'Machine Learning (stat.ML)']"
+1,arXiv:2006.10739,"
+Title: Fourier Features Let Networks Learn High Frequency Functions in Low  Dimensional Domains
+","
+Authors:
+Matthew Tancik, 
+Pratul P. Srinivasan, 
+Ben Mildenhall, 
+Sara Fridovich-Keil, 
+Nithin Raghavan, 
+Utkarsh Singhal, 
+Ravi Ramamoorthi, 
+Jonathan T. Barron, 
+Ren Ng
+","
+Subjects: Computer Vision and Pattern Recognition (cs.CV); Machine Learning (cs.LG)
+
+","['Computer Vision and Pattern Recognition (cs.CV)', 'Machine Learning (cs.LG)']"
+2,arXiv:2006.10738,"
+Title: Differentiable Augmentation for Data-Efficient GAN Training
+","
+Authors:
+Shengyu Zhao, 
+Zhijian Liu, 
+Ji Lin, 
+Jun-Yan Zhu, 
+Song Han
+","
+Subjects: Computer Vision and Pattern Recognition (cs.CV)
+",['Computer Vision and Pattern Recognition (cs.CV)']
+3,arXiv:2006.10734,"
+Title: Forward Prediction for Physical Reasoning
+","
+Authors:
+Rohit Girdhar, 
+Laura Gustafson, 
+Aaron Adcock, 
+Laurens van der Maaten
+","
+Subjects: Machine Learning (cs.LG); Artificial Intelligence (cs.AI); Computer Vision and Pattern Recognition (cs.CV); Machine Learning (stat.ML)
+
+","['Machine Learning (cs.LG)', 'Artificial Intelligence (cs.AI)', 'Computer Vision and Pattern Recognition (cs.CV)', 'Machine Learning (stat.ML)']"
+4,arXiv:2006.10733,"
+Title: A unified framework for equivalences in social networks
+","
+Authors:
+Nina Otter, 
+Mason A. Porter
+","
+Subjects: Social and Information Networks (cs.SI); Discrete Mathematics (cs.DM); Symbolic Computation (cs.SC); Category Theory (math.CT)
+
+","['Social and Information Networks (cs.SI)', 'Discrete Mathematics (cs.DM)', 'Symbolic Computation (cs.SC)', 'Category Theory (math.CT)']"
+5,arXiv:2006.10731,"
+Title: Spin-Weighted Spherical CNNs
+","
+Authors:
+Carlos Esteves, 
+Ameesh Makadia, 
+Kostas Daniilidis
+","
+Subjects: Computer Vision and Pattern Recognition (cs.CV); Machine Learning (cs.LG)
+
+","['Computer Vision and Pattern Recognition (cs.CV)', 'Machine Learning (cs.LG)']"
+6,arXiv:2006.10728,"
+Title: Diverse Image Generation via Self-Conditioned GANs
+","
+Authors:
+Steven Liu, 
+Tongzhou Wang, 
+David Bau, 
+Jun-Yan Zhu, 
+Antonio Torralba
+","
+Subjects: Computer Vision and Pattern Recognition (cs.CV); Machine Learning (cs.LG)
+
+","['Computer Vision and Pattern Recognition (cs.CV)', 'Machine Learning (cs.LG)']"
+7,arXiv:2006.10726,"
+Title: Fully Test-time Adaptation by Entropy Minimization
+","
+Authors:
+Dequan Wang, 
+Evan Shelhamer, 
+Shaoteng Liu, 
+Bruno Olshausen, 
+Trevor Darrell
+","
+Subjects: Machine Learning (cs.LG); Computer Vision and Pattern Recognition (cs.CV); Machine Learning (stat.ML)
+
+","['Machine Learning (cs.LG)', 'Computer Vision and Pattern Recognition (cs.CV)', 'Machine Learning (stat.ML)']"
+8,arXiv:2006.10724,"
+Title: Cyclic Differentiable Architecture Search
+","
+Authors:
+Hongyuan Yu, 
+Houwen Peng
+","
+Subjects: Computer Vision and Pattern Recognition (cs.CV)
+",['Computer Vision and Pattern Recognition (cs.CV)']
+9,arXiv:2006.10721,"
+Title: Ocean: Object-aware Anchor-free Tracking
+","
+Authors:
+Zhipeng Zhang, 
+Houwen Peng
+","
+Subjects: Computer Vision and Pattern Recognition (cs.CV)
+",['Computer Vision and Pattern Recognition (cs.CV)']
+10,arXiv:2006.10720,"
+Title: IReEn: Iterative Reverse-Engineering of Black-Box Functions via Neural  Program Synthesis
+","
+Authors:
+Hossein Hajipour, 
+Mateusz Malinowski, 
+Mario Fritz
+","
+Subjects: Machine Learning (cs.LG); Artificial Intelligence (cs.AI); Programming Languages (cs.PL); Software Engineering (cs.SE); Machine Learning (stat.ML)
+
+","['Machine Learning (cs.LG)', 'Artificial Intelligence (cs.AI)', 'Programming Languages (cs.PL)', 'Software Engineering (cs.SE)', 'Machine Learning (stat.ML)']"
+11,arXiv:2006.10719,"
+Title: SwissCovid: a critical analysis of risk assessment by Swiss authorities
+","
+Authors:
+Paul-Olivier Dehaye, 
+Joel Reardon
+","
+Subjects: Cryptography and Security (cs.CR); Computers and Society (cs.CY)
+
+","['Cryptography and Security (cs.CR)', 'Computers and Society (cs.CY)']"
+12,arXiv:2006.10716,"
+Title: Market Graph Clustering Via QUBO and Digital Annealing
+","
+Authors:
+Seo Hong, 
+Pierre Miasnikof, 
+Roy Kwon, 
+Yuri Lawryshyn
+","
+Subjects: Social and Information Networks (cs.SI); Computation (stat.CO)
+
+","['Social and Information Networks (cs.SI)', 'Computation (stat.CO)']"
+13,arXiv:2006.10715,"
+Title: List-Decodable Mean Estimation via Iterative Multi-Fitering
+","
+Authors:
+Ilias Diakonikolas, 
+Daniel M. Kane, 
+Daniel Kongsgaard
+","
+Subjects: Machine Learning (cs.LG); Data Structures and Algorithms (cs.DS); Statistics Theory (math.ST); Machine Learning (stat.ML)
+
+","['Machine Learning (cs.LG)', 'Data Structures and Algorithms (cs.DS)', 'Statistics Theory (math.ST)', 'Machine Learning (stat.ML)']"
+14,arXiv:2006.10713,"
+Title: Zero-Shot Learning with Common Sense Knowledge Graphs
+","
+Authors:
+Nihal V. Nayak, 
+Stephen H. Bach
+","
+Subjects: Machine Learning (cs.LG); Computation and Language (cs.CL); Computer Vision and Pattern Recognition (cs.CV); Machine Learning (stat.ML)
+
+","['Machine Learning (cs.LG)', 'Computation and Language (cs.CL)', 'Computer Vision and Pattern Recognition (cs.CV)', 'Machine Learning (stat.ML)']"
+15,arXiv:2006.10712,"
+Title: Unsupervised out-of-distribution detection using kernel density  estimation
+","
+Authors:
+Ertunc Erdil, 
+Krishna Chaitanya, 
+Ender Konukoglu
+","
+Subjects: Computer Vision and Pattern Recognition (cs.CV); Machine Learning (cs.LG)
+
+","['Computer Vision and Pattern Recognition (cs.CV)', 'Machine Learning (cs.LG)']"
+16,arXiv:2006.10711,"
+Title: STEER : Simple Temporal Regularization For Neural ODEs
+","
+Authors:
+Arnab Ghosh, 
+Harkirat Singh Behl, 
+Emilien Dupont, 
+Philip H. S. Torr, 
+Vinay Namboodiri
+","
+Subjects: Machine Learning (cs.LG); Machine Learning (stat.ML)
+
+","['Machine Learning (cs.LG)', 'Machine Learning (stat.ML)']"
+17,arXiv:2006.10705,"
+Title: Set Distribution Networks: a Generative Model for Sets of Images
+","
+Authors:
+Shuangfei Zhai, 
+Walter Talbott, 
+Miguel Angel Bautista, 
+Carlos Guestrin, 
+Josh M. Susskind
+","
+Subjects: Machine Learning (cs.LG); Computer Vision and Pattern Recognition (cs.CV); Machine Learning (stat.ML)
+
+","['Machine Learning (cs.LG)', 'Computer Vision and Pattern Recognition (cs.CV)', 'Machine Learning (stat.ML)']"
+18,arXiv:2006.10704,"
+Title: Latent Video Transformer
+","
+Authors:
+Ruslan Rakhimov, 
+Denis Volkhonskiy, 
+Alexey Artemov, 
+Denis Zorin, 
+Evgeny Burnaev
+","
+Subjects: Computer Vision and Pattern Recognition (cs.CV); Machine Learning (cs.LG); Image and Video Processing (eess.IV)
+
+","['Computer Vision and Pattern Recognition (cs.CV)', 'Machine Learning (cs.LG)', 'Image and Video Processing (eess.IV)']"
+19,arXiv:2006.10702,"
+Title: Semi-Supervised Recognition under a Noisy and Fine-grained Dataset
+","
+Authors:
+Cheng Cui, 
+Zhi Ye, 
+Yangxi Li, 
+Xinjian Li, 
+Min Yang, 
+Kai Wei, 
+Bing Dai, 
+Yanmei Zhao, 
+Zhongji Liu, 
+Rong Pang
+","
+Subjects: Computer Vision and Pattern Recognition (cs.CV)
+",['Computer Vision and Pattern Recognition (cs.CV)']
+20,arXiv:2006.10701,"
+Title: Deep Reinforcement Learning amidst Lifelong Non-Stationarity
+","
+Authors:
+Annie Xie, 
+James Harrison, 
+Chelsea Finn
+","
+Subjects: Machine Learning (cs.LG); Artificial Intelligence (cs.AI); Robotics (cs.RO); Machine Learning (stat.ML)
+
+","['Machine Learning (cs.LG)', 'Artificial Intelligence (cs.AI)', 'Robotics (cs.RO)', 'Machine Learning (stat.ML)']"
+21,arXiv:2006.10698,"
+Title: Resource Pools and the CAP Theorem
+","
+Authors:
+Andrew Lewis-Pye, 
+Tim Roughgarden
+","
+Subjects: Distributed, Parallel, and Cluster Computing (cs.DC); Data Structures and Algorithms (cs.DS)
+
+","['Distributed, Parallel, and Cluster Computing (cs.DC)', 'Data Structures and Algorithms (cs.DS)']"
+22,arXiv:2006.10692,"
+Title: A Competitive B-Matching Algorithm for Reconfigurable Datacenter  Networks
+","
+Authors:
+Marcin Bienkowski, 
+David Fuchssteiner, 
+Jan Marcinkowski, 
+Stefan Schmid
+","
+Subjects: Networking and Internet Architecture (cs.NI); Data Structures and Algorithms (cs.DS)
+
+","['Networking and Internet Architecture (cs.NI)', 'Data Structures and Algorithms (cs.DS)']"
+23,arXiv:2006.10681,"
+Title: A dataset for complex activity recognition withmicro and macro  activities in a cooking scenario
+","
+Authors:
+Paula Lago, 
+Shingo Takeda, 
+Sayeda Shamma Alia, 
+Kohei Adachi, 
+Brahim Bennai, 
+Francois Charpillet, 
+Sozo Inoue
+","
+Subjects: Human-Computer Interaction (cs.HC); Machine Learning (cs.LG)
+
+","['Human-Computer Interaction (cs.HC)', 'Machine Learning (cs.LG)']"
+24,arXiv:2006.10680,"
+Title: DisARM: An Antithetic Gradient Estimator for Binary Latent Variables
+","
+Authors:
+Zhe Dong, 
+Andriy Mnih, 
+George Tucker
+","
+Subjects: Machine Learning (cs.LG); Machine Learning (stat.ML)
+
+","['Machine Learning (cs.LG)', 'Machine Learning (stat.ML)']"
+25,arXiv:2006.10679,"
+Title: Dissecting Deep Networks into an Ensemble of Generative Classifiers for  Robust Predictions
+","
+Authors:
+Lokender Tiwari, 
+Anish Madan, 
+Saket Anand, 
+Subhashis Banerjee
+","
+Subjects: Computer Vision and Pattern Recognition (cs.CV); Machine Learning (stat.ML)
+
+","['Computer Vision and Pattern Recognition (cs.CV)', 'Machine Learning (stat.ML)']"
+26,arXiv:2006.10677,"
+Title: AMALGUM -- A Free, Balanced, Multilayer English Web Corpus
+","
+Authors:
+Luke Gessler, 
+Siyao Peng, 
+Yang Liu, 
+Yilun Zhu, 
+Shabnam Behzad, 
+Amir Zeldes
+","
+Subjects: Computation and Language (cs.CL)
+",['Computation and Language (cs.CL)']
+27,arXiv:2006.10673,"
+Title: Mapping the ""long tail"" of research funding: A topic analysis of NSF  grant proposals in the Division of Astronomical Sciences
+","
+Authors:
+Gretchen R. Stahlman, 
+P. Bryan Heidorn
+","
+Subjects: Digital Libraries (cs.DL); Information Retrieval (cs.IR)
+
+","['Digital Libraries (cs.DL)', 'Information Retrieval (cs.IR)']"
+28,arXiv:2006.10672,"
+Title: Federated Learning With Quantized Global Model Updates
+","
+Authors:
+Mohammad Mohammadi Amiri, 
+Deniz Gunduz, 
+Sanjeev R. Kulkarni, 
+H. Vincent Poor
+","
+Subjects: Information Theory (cs.IT); Distributed, Parallel, and Cluster Computing (cs.DC); Machine Learning (cs.LG)
+
+","['Information Theory (cs.IT)', 'Distributed, Parallel, and Cluster Computing (cs.DC)', 'Machine Learning (cs.LG)']"
+29,arXiv:2006.10667,"
+Title: Towards Threshold Invariant Fair Classification
+","
+Authors:
+Mingliang Chen, 
+Min Wu
+","
+Subjects: Machine Learning (cs.LG); Machine Learning (stat.ML)
+
+","['Machine Learning (cs.LG)', 'Machine Learning (stat.ML)']"
+30,arXiv:2006.10657,"
+Title: Robust Group Subspace Recovery: A New Approach for Multi-Modality Data  Fusion
+","
+Authors:
+Sally Ghanem, 
+Ashkan Panahi, 
+Hamid Krim, 
+Ryan A. Kerekes
+","
+Subjects: Machine Learning (cs.LG); Machine Learning (stat.ML)
+
+","['Machine Learning (cs.LG)', 'Machine Learning (stat.ML)']"
+31,arXiv:2006.10653,"
+Title: Precise expressions for random projections: Low-rank approximation and  randomized Newton
+","
+Authors:
+Michał Dereziński, 
+Feynman Liang, 
+Zhenyu Liao, 
+Michael W. Mahoney
+","
+Subjects: Machine Learning (cs.LG); Machine Learning (stat.ML)
+
+","['Machine Learning (cs.LG)', 'Machine Learning (stat.ML)']"
+32,arXiv:2006.10649,"
+Title: Multi-Density Sketch-to-Image Translation Network
+","
+Authors:
+Jialu Huang, 
+Jing Liao, 
+Zhifeng Tan, 
+Sam Kwong
+","
+Subjects: Computer Vision and Pattern Recognition (cs.CV)
+",['Computer Vision and Pattern Recognition (cs.CV)']
+33,arXiv:2006.10645,"
+Title: Online Deep Clustering for Unsupervised Representation Learning
+","
+Authors:
+Xiaohang Zhan, 
+Jiahao Xie, 
+Ziwei Liu, 
+Yew Soon Ong, 
+Chen Change Loy
+","
+Subjects: Computer Vision and Pattern Recognition (cs.CV); Machine Learning (cs.LG)
+
+","['Computer Vision and Pattern Recognition (cs.CV)', 'Machine Learning (cs.LG)']"
+34,arXiv:2006.10644,"
+Title: p- and hp- virtual elements for the Stokes problem
+","
+Authors:
+Alexey Chernov, 
+Carlo Marcati, 
+Lorenzo Mascotto
+","
+Subjects: Numerical Analysis (math.NA)
+",['Numerical Analysis (math.NA)']
+35,arXiv:2006.10643,"
+Title: Erdos Goes Neural: an Unsupervised Learning Framework for Combinatorial  Optimization on Graphs
+","
+Authors:
+Nikolaos Karalias, 
+Andreas Loukas
+","
+Subjects: Machine Learning (cs.LG); Machine Learning (stat.ML)
+
+","['Machine Learning (cs.LG)', 'Machine Learning (stat.ML)']"
+36,arXiv:2006.10641,"
+Title: Information Extraction from a Strategic Sender: The Zero Error Case
+","
+Authors:
+Anuj S. Vora, 
+Ankur A. Kulkarni
+","
+Subjects: Information Theory (cs.IT); Computer Science and Game Theory (cs.GT); Systems and Control (eess.SY)
+
+","['Information Theory (cs.IT)', 'Computer Science and Game Theory (cs.GT)', 'Systems and Control (eess.SY)']"
+37,arXiv:2006.10638,"
+Title: Tight Bounds for Connectivity of Random K-out Graphs
+","
+Authors:
+Mansi Sood, 
+Osman Yagan
+","
+Subjects: Information Theory (cs.IT); Combinatorics (math.CO); Probability (math.PR)
+
+","['Information Theory (cs.IT)', 'Combinatorics (math.CO)', 'Probability (math.PR)']"
+38,arXiv:2006.10637,"
+Title: Temporal Graph Networks for Deep Learning on Dynamic Graphs
+","
+Authors:
+Emanuele Rossi, 
+Ben Chamberlain, 
+Fabrizio Frasca, 
+Davide Eynard, 
+Federico Monti, 
+Michael Bronstein
+","
+Subjects: Machine Learning (cs.LG); Machine Learning (stat.ML)
+
+","['Machine Learning (cs.LG)', 'Machine Learning (stat.ML)']"
+39,arXiv:2006.10635,"
+Title: Detecting Affective Flow States of Knowledge Workers Using Physiological  Sensors
+","
+Authors:
+Matthew Lee
+","
+Subjects: Human-Computer Interaction (cs.HC); Machine Learning (cs.LG)
+
+","['Human-Computer Interaction (cs.HC)', 'Machine Learning (cs.LG)']"
+40,arXiv:2006.10633,"
+Title: A Multi-View Approach Based on Naming Behavioral Modeling for Aligning  Chinese User Accounts across Multiple Networks
+","
+Authors:
+Junxing Zhu, 
+Xiang Wang, 
+Qiang Liu, 
+Xiaoyong Li, 
+Chengcheng Shao, 
+Bin Zhou
+","
+Subjects: Social and Information Networks (cs.SI)
+",['Social and Information Networks (cs.SI)']
+41,arXiv:2006.10632,"
+Title: Explainable and Discourse Topic-aware Neural Language Understanding
+","
+Authors:
+Yatin Chaudhary, 
+Hinrich Schütze, 
+Pankaj Gupta
+","
+Subjects: Computation and Language (cs.CL); Artificial Intelligence (cs.AI); Machine Learning (cs.LG)
+
+","['Computation and Language (cs.CL)', 'Artificial Intelligence (cs.AI)', 'Machine Learning (cs.LG)']"
+42,arXiv:2006.10628,"
+Title: Offline detection of change-points in the mean for stationary graph  signals
+","
+Authors:
+Alejandro de la Concha, 
+Nicolas Vayatis, 
+Argyris Kalogeratos
+","
+Subjects: Machine Learning (cs.LG); Applications (stat.AP); Machine Learning (stat.ML)
+
+","['Machine Learning (cs.LG)', 'Applications (stat.AP)', 'Machine Learning (stat.ML)']"
+43,arXiv:2006.10627,"
+Title: Compositional Generalization by Learning Analytical Expressions
+","
+Authors:
+Qian Liu, 
+Shengnan An, 
+Jian-Guang Lou, 
+Bei Chen, 
+Zeqi Lin, 
+Yan Gao, 
+Bin Zhou, 
+Nanning Zheng, 
+Dongmei Zhang
+","
+Subjects: Artificial Intelligence (cs.AI); Computation and Language (cs.CL)
+
+","['Artificial Intelligence (cs.AI)', 'Computation and Language (cs.CL)']"
+44,arXiv:2006.10626,"
+Title: Use of in-the-wild images for anomaly detection in face anti-spoofing
+","
+Authors:
+Latifah Abduh, 
+Ioannis Ivrissimtzis
+","
+Subjects: Computer Vision and Pattern Recognition (cs.CV); Neural and Evolutionary Computing (cs.NE)
+
+","['Computer Vision and Pattern Recognition (cs.CV)', 'Neural and Evolutionary Computing (cs.NE)']"
+45,arXiv:2006.10623,"
+Title: SatImNet: Structured and Harmonised Training Data for Enhanced Satellite  Imagery Classification
+","
+Authors:
+Vasileios Syrris, 
+Ondrej Pesek, 
+Pierre Soille
+","
+Subjects: Computer Vision and Pattern Recognition (cs.CV); Machine Learning (cs.LG)
+
+","['Computer Vision and Pattern Recognition (cs.CV)', 'Machine Learning (cs.LG)']"
+46,arXiv:2006.10621,"
+Title: On the Predictability of Pruning Across Scales
+","
+Authors:
+Jonathan S. Rosenfeld, 
+Jonathan Frankle, 
+Michael Carbin, 
+Nir Shavit
+","
+Subjects: Machine Learning (cs.LG); Computer Vision and Pattern Recognition (cs.CV); Machine Learning (stat.ML)
+
+","['Machine Learning (cs.LG)', 'Computer Vision and Pattern Recognition (cs.CV)', 'Machine Learning (stat.ML)']"
+47,arXiv:2006.10620,"
+Title: Local Competition and Uncertainty for Adversarial Robustness in Deep  Learning
+","
+Authors:
+Antonios Alexos, 
+Konstantinos P. Panousis, 
+Sotirios Chatzis
+","
+Subjects: Machine Learning (cs.LG); Machine Learning (stat.ML)
+
+","['Machine Learning (cs.LG)', 'Machine Learning (stat.ML)']"
+48,arXiv:2006.10619,"
+Title: Tensor Decompositions in Recursive NeuralNetworks for Tree-Structured  Data
+","
+Authors:
+Daniele Castellana, 
+Davide Bacciu
+","
+Subjects: Machine Learning (cs.LG); Machine Learning (stat.ML)
+
+","['Machine Learning (cs.LG)', 'Machine Learning (stat.ML)']"
+49,arXiv:2006.10615,"
+Title: AVClass2: Massive Malware Tag Extraction from AV Labels
+","
+Authors:
+Silvia Sebastián, 
+Juan Caballero
+","
+Subjects: Cryptography and Security (cs.CR)
+",['Cryptography and Security (cs.CR)']
+50,arXiv:2006.10611,"
+Title: Competitive Policy Optimization
+","
+Authors:
+Manish Prajapat, 
+Kamyar Azizzadenesheli, 
+Alexander Liniger, 
+Yisong Yue, 
+Anima Anandkumar
+","
+Subjects: Machine Learning (cs.LG); Computer Science and Game Theory (cs.GT); Multiagent Systems (cs.MA); Machine Learning (stat.ML)
+
+","['Machine Learning (cs.LG)', 'Computer Science and Game Theory (cs.GT)', 'Multiagent Systems (cs.MA)', 'Machine Learning (stat.ML)']"
+51,arXiv:2006.10609,"
+Title: The Clever Hans Effect in Anomaly Detection
+","
+Authors:
+Jacob Kauffmann, 
+Lukas Ruff, 
+Grégoire Montavon, 
+Klaus-Robert Müller
+","
+Subjects: Machine Learning (cs.LG); Artificial Intelligence (cs.AI); Machine Learning (stat.ML)
+
+","['Machine Learning (cs.LG)', 'Artificial Intelligence (cs.AI)', 'Machine Learning (stat.ML)']"
+52,arXiv:2006.10608,"
+Title: Robotics Software Engineering: A Perspective from the Service Robotics  Domain
+","
+Authors:
+Sergio García, 
+Daniel Strüber, 
+Davide Brugali, 
+Thorsten Berger, 
+Patrizio Pelliccione
+","
+Subjects: Software Engineering (cs.SE); Robotics (cs.RO)
+
+","['Software Engineering (cs.SE)', 'Robotics (cs.RO)']"
+53,arXiv:2006.10606,"
+Title: Convergent validity of several indicators measuring disruptiveness with  milestone assignments to physics papers by experts
+","
+Authors:
+Lutz Bornmann, 
+Alexander Tekles
+","
+Subjects: Digital Libraries (cs.DL); Physics and Society (physics.soc-ph)
+
+","['Digital Libraries (cs.DL)', 'Physics and Society (physics.soc-ph)']"
+54,arXiv:2006.10604,"
+Title: Compositional theories for embedded languages
+","
+Authors:
+Davide Trotta, 
+Margherita Zorzi
+","
+Subjects: Logic in Computer Science (cs.LO); Programming Languages (cs.PL)
+
+","['Logic in Computer Science (cs.LO)', 'Programming Languages (cs.PL)']"
+55,arXiv:2006.10600,"
+Title: Multi-Source Unsupervised Hyperparameter Optimization
+","
+Authors:
+Masahiro Nomura, 
+Yuta Saito
+","
+Subjects: Machine Learning (cs.LG); Machine Learning (stat.ML)
+
+","['Machine Learning (cs.LG)', 'Machine Learning (stat.ML)']"
+56,arXiv:2006.10599,"
+Title: Constraining Variational Inference with Geometric Jensen-Shannon  Divergence
+","
+Authors:
+Jacob Deasy, 
+Nikola Simidjievski, 
+Pietro Liò
+","
+Subjects: Machine Learning (cs.LG); Machine Learning (stat.ML)
+
+","['Machine Learning (cs.LG)', 'Machine Learning (stat.ML)']"
+57,arXiv:2006.10598,"
+Title: Shapeshifter Networks: Cross-layer Parameter Sharing for Scalable and  Effective Deep Learning
+","
+Authors:
+Bryan A. Plummer, 
+Nikoli Dryden, 
+Julius Frost, 
+Torsten Hoefler, 
+Kate Saenko
+","
+Subjects: Machine Learning (cs.LG); Computation and Language (cs.CL); Computer Vision and Pattern Recognition (cs.CV); Machine Learning (stat.ML)
+
+","['Machine Learning (cs.LG)', 'Computation and Language (cs.CL)', 'Computer Vision and Pattern Recognition (cs.CV)', 'Machine Learning (stat.ML)']"
+58,arXiv:2006.10592,"
+Title: On the complexity of detecting hazards
+","
+Authors:
+Balagopal Komarath, 
+Nitin Saurabh
+","
+Subjects: Computational Complexity (cs.CC)
+",['Computational Complexity (cs.CC)']
+59,arXiv:2006.10591,"
+Title: Security Considerations for Internet of Things: A Survey
+","
+Authors:
+A. Jurcut, 
+T. Niculcea, 
+P. Ranaweera, 
+A. LeKhac
+","
+Subjects: Cryptography and Security (cs.CR)
+",['Cryptography and Security (cs.CR)']
+60,arXiv:2006.10588,"
+Title: Low-Rank Parity-Check Codes over Galois Rings
+","
+Authors:
+Julian Renner, 
+Alessandro Neri, 
+Sven Puchinger
+","
+Subjects: Information Theory (cs.IT)
+",['Information Theory (cs.IT)']
+61,arXiv:2006.10587,"
+Title: Lightweight Collaborative Anomaly Detection for the IoT using Blockchain
+","
+Authors:
+Yisroel Mirsky, 
+Tomer Golomb, 
+Yuval Elovici
+","
+Subjects: Cryptography and Security (cs.CR); Distributed, Parallel, and Cluster Computing (cs.DC); Machine Learning (cs.LG)
+
+","['Cryptography and Security (cs.CR)', 'Distributed, Parallel, and Cluster Computing (cs.DC)', 'Machine Learning (cs.LG)']"
+62,arXiv:2006.10581,"
+Title: Minimax Lower Bounds for Transfer Learning with Linear and One-hidden  Layer Neural Networks
+","
+Authors:
+Seyed Mohammadreza Mousavi Kalan, 
+Zalan Fabian, 
+A. Salman Avestimehr, 
+Mahdi Soltanolkotabi
+","
+Subjects: Machine Learning (cs.LG); Information Theory (cs.IT); Machine Learning (stat.ML)
+
+","['Machine Learning (cs.LG)', 'Information Theory (cs.IT)', 'Machine Learning (stat.ML)']"
+63,arXiv:2006.10571,"
+Title: Likelihood-Free Inference with Deep Gaussian Processes
+","
+Authors:
+Alexander Aushev, 
+Henri Pesonen, 
+Markus Heinonen, 
+Jukka Corander, 
+Samuel Kaski
+","
+Subjects: Machine Learning (cs.LG); Machine Learning (stat.ML)
+
+","['Machine Learning (cs.LG)', 'Machine Learning (stat.ML)']"
+64,arXiv:2006.10569,"
+Title: Neural Graphics Pipeline for Controllable Image Generation
+","
+Authors:
+Xuelin Chen, 
+Daniel Cohen-Or, 
+Baoquan Chen, 
+Niloy J. Mitra
+","
+Subjects: Computer Vision and Pattern Recognition (cs.CV)
+",['Computer Vision and Pattern Recognition (cs.CV)']
+65,arXiv:2006.10562,"
+Title: Uncertainty in Gradient Boosting via Ensembles
+","
+Authors:
+Aleksei Ustimenko, 
+Liudmila Prokhorenkova, 
+Andrey Malinin
+","
+Subjects: Machine Learning (cs.LG); Machine Learning (stat.ML)
+
+","['Machine Learning (cs.LG)', 'Machine Learning (stat.ML)']"
+66,arXiv:2006.10560,"
+Title: Gradient Amplification: An efficient way to train deep neural networks
+","
+Authors:
+Sunitha Basodi, 
+Chunyan Ji, 
+Haiping Zhang, 
+Yi Pan
+","
+Subjects: Machine Learning (cs.LG); Computer Vision and Pattern Recognition (cs.CV); Machine Learning (stat.ML)
+
+","['Machine Learning (cs.LG)', 'Computer Vision and Pattern Recognition (cs.CV)', 'Machine Learning (stat.ML)']"
+67,arXiv:2006.10559,"
+Title: Differentially-private Federated Neural Architecture Search
+","
+Authors:
+Ishika Singh, 
+Haoyi Zhou, 
+Kunlin Yang, 
+Meng Ding, 
+Bill Lin, 
+Pengtao Xie
+","
+Subjects: Machine Learning (cs.LG); Cryptography and Security (cs.CR); Machine Learning (stat.ML)
+
+","['Machine Learning (cs.LG)', 'Cryptography and Security (cs.CR)', 'Machine Learning (stat.ML)']"
+68,arXiv:2006.10553,"
+Title: Artificial Musical Intelligence: A Survey
+","
+Authors:
+Elad Liebman, 
+Peter Stone
+","
+Subjects: Sound (cs.SD); Artificial Intelligence (cs.AI); Multimedia (cs.MM); Audio and Speech Processing (eess.AS)
+
+","['Sound (cs.SD)', 'Artificial Intelligence (cs.AI)', 'Multimedia (cs.MM)', 'Audio and Speech Processing (eess.AS)']"
+69,arXiv:2006.10547,"
+Title: MOSQUITO-NET: A deep learning based CADx system for malaria diagnosis  along with model interpretation using GradCam and class activation maps
+","
+Authors:
+Aayush Kumar, 
+Sanat B Singh, 
+Suresh Chandra Satapathy, 
+Minakhi Rout
+","
+Subjects: Computer Vision and Pattern Recognition (cs.CV); Machine Learning (cs.LG); Image and Video Processing (eess.IV)
+
+","['Computer Vision and Pattern Recognition (cs.CV)', 'Machine Learning (cs.LG)', 'Image and Video Processing (eess.IV)']"
+70,arXiv:2006.10538,"
+Title: Subgraph Neural Networks
+","
+Authors:
+Emily Alsentzer, 
+Samuel G. Finlayson, 
+Michelle M. Li, 
+Marinka Zitnik
+","
+Subjects: Machine Learning (cs.LG); Social and Information Networks (cs.SI); Machine Learning (stat.ML)
+
+","['Machine Learning (cs.LG)', 'Social and Information Networks (cs.SI)', 'Machine Learning (stat.ML)']"
+71,arXiv:2006.10532,"
+Title: COVID-ABS: An Agent-Based Model of COVID-19 Epidemic to Simulate Health  and Economic Effects of Social Distancing Interventions
+","
+Authors:
+Petrônio C. L. Silva, 
+Paulo V. C. Batista, 
+Hélder S. Lima, 
+Marcos A. Alves, 
+Frederico G. Guimarães, 
+Rodrigo C. P. Silva
+","
+Subjects: Artificial Intelligence (cs.AI); Physics and Society (physics.soc-ph)
+
+","['Artificial Intelligence (cs.AI)', 'Physics and Society (physics.soc-ph)']"
+72,arXiv:2006.10531,"
+Title: LimeOut: An Ensemble Approach To Improve Process Fairness
+","
+Authors:
+Vaishnavi Bhargava, 
+Miguel Couceiro, 
+Amedeo Napoli
+","
+Subjects: Machine Learning (cs.LG); Machine Learning (stat.ML)
+
+","['Machine Learning (cs.LG)', 'Machine Learning (stat.ML)']"
+73,arXiv:2006.10529,"
+Title: Neural Path Features and Neural Path Kernel : Understanding the role of  gates in deep learning
+","
+Authors:
+Chandrashekar Lakshminarayanan, 
+Amit Vikram Singh
+","
+Subjects: Machine Learning (cs.LG); Machine Learning (stat.ML)
+
+","['Machine Learning (cs.LG)', 'Machine Learning (stat.ML)']"
+74,arXiv:2006.10528,"
+Title: The United Nations Sustainable Development Goals in Systems Engineering:  Eliciting sustainability requirements
+","
+Authors:
+Ian Brooks
+","
+Subjects: Computers and Society (cs.CY)
+",['Computers and Society (cs.CY)']
+75,arXiv:2006.10527,"
+Title: A decoding algorithm for 2D convolutional codes over the erasure channel
+","
+Authors:
+Julia Lieb, 
+Raquel Pinto
+","
+Subjects: Information Theory (cs.IT)
+",['Information Theory (cs.IT)']
+76,arXiv:2006.10525,"
+Title: StarCraft II Build Order Optimization using Deep Reinforcement Learning  and Monte-Carlo Tree Search
+","
+Authors:
+Islam Elnabarawy, 
+Kristijana Arroyo, 
+Donald C. Wunsch II
+","
+Subjects: Machine Learning (cs.LG); Artificial Intelligence (cs.AI)
+
+","['Machine Learning (cs.LG)', 'Artificial Intelligence (cs.AI)']"
+77,arXiv:2006.10524,"
+Title: Reinforcement Learning as Iterative and Amortised Inference
+","
+Authors:
+Beren Millidge, 
+Alexander Tschantz, 
+Anil K Seth, 
+Christopher L Buckley
+","
+Subjects: Machine Learning (cs.LG); Artificial Intelligence (cs.AI); Machine Learning (stat.ML)
+
+","['Machine Learning (cs.LG)', 'Artificial Intelligence (cs.AI)', 'Machine Learning (stat.ML)']"
+78,arXiv:2006.10523,"
+Title: Optimization of Fuzzy Controller of a Wind Power Plant Based on the  Swarm Intelligence
+","
+Authors:
+Vadim Manusov, 
+Pavel Matrenin
+","
+Subjects: Systems and Control (eess.SY); Artificial Intelligence (cs.AI); Neural and Evolutionary Computing (cs.NE)
+
+","['Systems and Control (eess.SY)', 'Artificial Intelligence (cs.AI)', 'Neural and Evolutionary Computing (cs.NE)']"
+79,arXiv:2006.10522,"
+Title: PIDA: Smooth and Stable Flight Using Stochastic Dual Simplex Algorithm  and Genetic Filter
+","
+Authors:
+Seid Miad Zandavi, 
+Vera Chung, 
+Ali Anaissi
+","
+Subjects: Robotics (cs.RO); Systems and Control (eess.SY)
+
+","['Robotics (cs.RO)', 'Systems and Control (eess.SY)']"
+80,arXiv:2006.10521,"
+Title: LSTM-TrajGAN: A Deep Learning Approach to Trajectory Privacy Protection
+","
+Authors:
+Jinmeng Rao, 
+Song Gao, 
+Yuhao Kang, 
+Qunying Huang
+","
+Subjects: Machine Learning (cs.LG); Artificial Intelligence (cs.AI); Cryptography and Security (cs.CR)
+
+","['Machine Learning (cs.LG)', 'Artificial Intelligence (cs.AI)', 'Cryptography and Security (cs.CR)']"
+81,arXiv:2006.10520,"
+Title: Multi-view Low-rank Preserving Embedding: A Novel Method for Multi-view  Representation
+","
+Authors:
+Xiangzhu Meng, 
+Lin Feng, 
+Huibing Wang
+","
+Subjects: Machine Learning (cs.LG); Computer Vision and Pattern Recognition (cs.CV); Machine Learning (stat.ML)
+
+","['Machine Learning (cs.LG)', 'Computer Vision and Pattern Recognition (cs.CV)', 'Machine Learning (stat.ML)']"
+82,arXiv:2006.10518,"
+Title: Improving Post Training Neural Quantization: Layer-wise Calibration and  Integer Programming
+","
+Authors:
+Itay Hubara, 
+Yury Nahshan, 
+Yair Hanani, 
+Ron Banner, 
+Daniel Soudry
+","
+Subjects: Machine Learning (cs.LG); Machine Learning (stat.ML)
+
+","['Machine Learning (cs.LG)', 'Machine Learning (stat.ML)']"
+83,arXiv:2006.10517,"
+Title: Privacy-Preserving Technology to Help Millions of People: Federated  Prediction Model for Stroke Prevention
+","
+Authors:
+Ce Ju, 
+Ruihui Zhao, 
+Jichao Sun, 
+Xiguang Wei, 
+Bo Zhao, 
+Yang Liu, 
+Hongshan Li, 
+Tianjian Chen, 
+Xinwei Zhang, 
+Dashan Gao, 
+Ben Tan, 
+Han Yu, 
+Yuan Jin
+","
+Subjects: Machine Learning (cs.LG); Cryptography and Security (cs.CR)
+
+","['Machine Learning (cs.LG)', 'Cryptography and Security (cs.CR)']"
+84,arXiv:2006.10516,"
+Title: Self-Attention Enhanced Patient Journey Understanding in Healthcare  System
+","
+Authors:
+Xueping Peng, 
+Guodong Long, 
+Tao Shen, 
+Sen Wang, 
+Jing Jiang
+","
+Subjects: Machine Learning (cs.LG); Machine Learning (stat.ML)
+
+","['Machine Learning (cs.LG)', 'Machine Learning (stat.ML)']"
+85,arXiv:2006.10511,"
+Title: Contrastive learning of global and local features for medical image  segmentation with limited annotations
+","
+Authors:
+Krishna Chaitanya, 
+Ertunc Erdil, 
+Neerav Karani, 
+Ender Konukoglu
+","
+Subjects: Computer Vision and Pattern Recognition (cs.CV); Machine Learning (cs.LG); Image and Video Processing (eess.IV); Machine Learning (stat.ML)
+
+","['Computer Vision and Pattern Recognition (cs.CV)', 'Machine Learning (cs.LG)', 'Image and Video Processing (eess.IV)', 'Machine Learning (stat.ML)']"
+86,arXiv:2006.10509,"
+Title: Structure and Design of HoloGen
+","
+Authors:
+Peter J. Christopher, 
+Timothy D. Wilkinson
+","
+Subjects: Graphics (cs.GR); Computer Vision and Pattern Recognition (cs.CV)
+
+","['Graphics (cs.GR)', 'Computer Vision and Pattern Recognition (cs.CV)']"
+87,arXiv:2006.10504,"
+Title: Practical Large-Scale Distributed Parallel Monte-Carlo Tree Search  Applied to Molecular Design
+","
+Authors:
+Xiufeng Yang, 
+Tanuj Kr Aasawat, 
+Kazuki Yoshizoe
+","
+Subjects: Artificial Intelligence (cs.AI); Distributed, Parallel, and Cluster Computing (cs.DC)
+
+","['Artificial Intelligence (cs.AI)', 'Distributed, Parallel, and Cluster Computing (cs.DC)']"
+88,arXiv:2006.10503,"
+Title: SE(3)-Transformers: 3D Roto-Translation Equivariant Attention Networks
+","
+Authors:
+Fabian B. Fuchs, 
+Daniel E. Worrall, 
+Volker Fischer, 
+Max Welling
+","
+Subjects: Machine Learning (cs.LG); Machine Learning (stat.ML)
+
+","['Machine Learning (cs.LG)', 'Machine Learning (stat.ML)']"
+89,arXiv:2006.10502,"
+Title: Distillation of neural network models for detection and description of  key points of images
+","
+Authors:
+A.V. Yashchenko, 
+A.V. Belikov, 
+M.V. Peterson, 
+A.S. Potapov
+","
+Subjects: Computer Vision and Pattern Recognition (cs.CV); Machine Learning (cs.LG); Image and Video Processing (eess.IV)
+
+","['Computer Vision and Pattern Recognition (cs.CV)', 'Machine Learning (cs.LG)', 'Image and Video Processing (eess.IV)']"
+90,arXiv:2006.10500,"
+Title: ReenactNet: Real-time Full Head Reenactment
+","
+Authors:
+Mohammad Rami Koujan, 
+Michail Christos Doukas, 
+Anastasios Roussos, 
+Stefanos Zafeiriou
+","
+Subjects: Computer Vision and Pattern Recognition (cs.CV)
+",['Computer Vision and Pattern Recognition (cs.CV)']
+91,arXiv:2006.10499,"
+Title: Real-Time Monocular 4D Face Reconstruction using the LSFM models
+","
+Authors:
+Mohammad Rami Koujan, 
+Nikolai Dochev, 
+Anastasios Roussos
+","
+Subjects: Computer Vision and Pattern Recognition (cs.CV)
+",['Computer Vision and Pattern Recognition (cs.CV)']
+92,arXiv:2006.10498,"
+Title: Neutralizing Self-Selection Bias in Sampling for Sortition
+","
+Authors:
+Bailey Flanigan, 
+Paul Gölz, 
+Anupam Gupta, 
+Ariel Procaccia
+","
+Subjects: Computer Science and Game Theory (cs.GT)
+",['Computer Science and Game Theory (cs.GT)']
+93,arXiv:2006.10494,"
+Title: The Only Undoable CRDTs are Counters
+","
+Authors:
+Stephen Dolan
+","
+Subjects: Distributed, Parallel, and Cluster Computing (cs.DC)
+","['Distributed, Parallel, and Cluster Computing (cs.DC)']"
+94,arXiv:2006.10491,"
+Title: On Subgame Perfect Equilibria in Turn-Based Reachability Timed Games
+","
+Authors:
+Thomas Brihaye, 
+Aline Goeminne
+","
+Subjects: Computer Science and Game Theory (cs.GT)
+",['Computer Science and Game Theory (cs.GT)']
+95,arXiv:2006.10483,"
+Title: Algorithmic Decision Making with Conditional Fairness
+","
+Authors:
+Renzhe Xu, 
+Peng Cui, 
+Kun Kuang, 
+Bo Li, 
+Linjun Zhou, 
+Zheyan Shen, 
+Wei Cui
+","
+Subjects: Machine Learning (cs.LG); Machine Learning (stat.ML)
+
+","['Machine Learning (cs.LG)', 'Machine Learning (stat.ML)']"
+96,arXiv:2006.10481,"
+Title: Identification of Practices and Capabilities in API Management: A  Systematic Literature Review
+","
+Authors:
+Max Mathijssen, 
+Michiel Overeem, 
+Slinger Jansen
+","
+Subjects: Software Engineering (cs.SE)
+",['Software Engineering (cs.SE)']
+97,arXiv:2006.10475,"
+Title: Design and Control of Steam Flow in Cement Production Process using  Neural Network Based Controllers
+","
+Authors:
+Mustefa Jibril, 
+Messay Tadese, 
+Eliyas Alemayehu Tadese
+","
+Subjects: Systems and Control (eess.SY)
+",['Systems and Control (eess.SY)']
+98,arXiv:2006.10468,"
+Title: Body Travel Performance Improvement of Space Vehicle Electromagnetic  Suspension System using LQG and LQI Control Methods
+","
+Authors:
+Mustefa Jibril, 
+Messay Tadese, 
+Eliyas Alemayehu Tadese
+","
+Subjects: Systems and Control (eess.SY)
+",['Systems and Control (eess.SY)']
+99,arXiv:2006.10461,"
+Title: SXL: Spatially explicit learning of geographic processes with auxiliary  tasks
+","
+Authors:
+Konstantin Klemmer, 
+Daniel B. Neill
+","
+Subjects: Machine Learning (cs.LG); Computer Vision and Pattern Recognition (cs.CV); Machine Learning (stat.ML)
+
+","['Machine Learning (cs.LG)', 'Computer Vision and Pattern Recognition (cs.CV)', 'Machine Learning (stat.ML)']"
+100,arXiv:2006.10460,"
+Title: Confident Off-Policy Evaluation and Selection through Self-Normalized  Importance Weighting
+","
+Authors:
+Ilja Kuzborskij, 
+Claire Vernade, 
+András György, 
+Csaba Szepesvári
+","
+Subjects: Machine Learning (cs.LG); Machine Learning (stat.ML)
+
+","['Machine Learning (cs.LG)', 'Machine Learning (stat.ML)']"
+101,arXiv:2006.10457,"
+Title: Language Guided Networks for Cross-modal Moment Retrieval
+","
+Authors:
+Kun Liu, 
+Xun Yang, 
+Tat-seng Chua, 
+Huadong Ma, 
+Chuang Gan
+","
+Subjects: Computer Vision and Pattern Recognition (cs.CV)
+",['Computer Vision and Pattern Recognition (cs.CV)']
+102,arXiv:2006.10456,"
+Title: Palette Sparsification Beyond $(Δ+1)$ Vertex Coloring
+","
+Authors:
+Noga Alon, 
+Sepehr Assadi
+","
+Subjects: Data Structures and Algorithms (cs.DS); Discrete Mathematics (cs.DM)
+
+","['Data Structures and Algorithms (cs.DS)', 'Discrete Mathematics (cs.DM)']"
+103,arXiv:2006.10453,"
+Title: Deep Multitask Learning for Pervasive BMI Estimation and Identity  Recognition in Smart Beds
+","
+Authors:
+Vandad Davoodnia, 
+Monet Slinowsky, 
+Ali Etemad
+","
+Subjects: Signal Processing (eess.SP); Machine Learning (cs.LG)
+
+","['Signal Processing (eess.SP)', 'Machine Learning (cs.LG)']"
+104,arXiv:2006.10451,"
+Title: Learning High-Resolution Domain-Specific Representations with a GAN  Generator
+","
+Authors:
+Danil Galeev, 
+Konstantin Sofiiuk, 
+Danila Rukhovich, 
+Mikhail Romanov, 
+Olga Barinova, 
+Anton Konushin
+","
+Subjects: Computer Vision and Pattern Recognition (cs.CV)
+",['Computer Vision and Pattern Recognition (cs.CV)']
+105,arXiv:2006.10444,"
+Title: Parameterized Inapproximability of Independent Set in $H$-Free Graphs
+","
+Authors:
+Pavel Dvořák, 
+Andreas Emil Feldmann, 
+Ashutosh Rai, 
+Paweł Rzążewski
+","
+Subjects: Computational Complexity (cs.CC)
+",['Computational Complexity (cs.CC)']
+106,arXiv:2006.10443,"
+Title: Distributed Value Function Approximation for Collaborative Multi-Agent  Reinforcement Learning
+","
+Authors:
+Milos S. Stankovic, 
+Marko Beko, 
+Srdjan S. Stankovic
+","
+Subjects: Machine Learning (cs.LG); Distributed, Parallel, and Cluster Computing (cs.DC); Systems and Control (eess.SY); Machine Learning (stat.ML)
+
+","['Machine Learning (cs.LG)', 'Distributed, Parallel, and Cluster Computing (cs.DC)', 'Systems and Control (eess.SY)', 'Machine Learning (stat.ML)']"
+107,arXiv:2006.10439,"
+Title: Bi-Abduction for Shapes with Ordered Data
+","
+Authors:
+Christopher Curry, 
+Quang Loc Le
+","
+Subjects: Logic in Computer Science (cs.LO)
+",['Logic in Computer Science (cs.LO)']
+108,arXiv:2006.10437,"
+Title: ""EHLO WORLD"" -- Checking If Your Conversational AI Knows Right from  Wrong
+","
+Authors:
+Elayne Ruane, 
+Vivek Nallur
+","
+Subjects: Computers and Society (cs.CY); Artificial Intelligence (cs.AI)
+
+","['Computers and Society (cs.CY)', 'Artificial Intelligence (cs.AI)']"
+109,arXiv:2006.10427,"
+Title: PU-CPI solution of Laplacian eigenvalue problems
+","
+Authors:
+Antti Hannukainen, 
+Jarmo Malinen, 
+Antti Ojalammi
+","
+Subjects: Numerical Analysis (math.NA)
+",['Numerical Analysis (math.NA)']
+110,arXiv:2006.10424,"
+Title: An Investigation of the Weight Space for Version Control of Neural  Networks
+","
+Authors:
+Konstantin Schürholt, 
+Damian Borth
+","
+Subjects: Machine Learning (cs.LG); Machine Learning (stat.ML)
+
+","['Machine Learning (cs.LG)', 'Machine Learning (stat.ML)']"
+111,arXiv:2006.10422,"
+Title: Train Unit Shunting and Servicing: a Real-Life Application of  Multi-Agent Path Finding
+","
+Authors:
+Jesse Mulderij (1), 
+Bob Huisman (2), 
+Denise Tönissen (3), 
+Koos van der Linden (1), 
+Mathijs de Weerdt (1) ((1) Delft University of Technology, (2) Nederlandse Spoorwegen, (3) Vrije Universiteit Amsterdam)
+","
+Subjects: Multiagent Systems (cs.MA); Discrete Mathematics (cs.DM)
+
+","['Multiagent Systems (cs.MA)', 'Discrete Mathematics (cs.DM)']"
+112,arXiv:2006.10413,"
+Title: Pre-trained Language Models as Symbolic Reasoners over Knowledge?
+","
+Authors:
+Nora Kassner, 
+Benno Kroje, 
+Hinrich Schütze
+","
+Subjects: Computation and Language (cs.CL)
+",['Computation and Language (cs.CL)']
+113,arXiv:2006.10412,"
+Title: Open Ad Hoc Teamwork using Graph-based Policy Learning
+","
+Authors:
+Arrasy Rahman, 
+Niklas Hopner, 
+Filippos Christianos, 
+Stefano V. Albrecht
+","
+Subjects: Machine Learning (cs.LG); Multiagent Systems (cs.MA); Machine Learning (stat.ML)
+
+","['Machine Learning (cs.LG)', 'Multiagent Systems (cs.MA)', 'Machine Learning (stat.ML)']"
+114,arXiv:2006.10411,"
+Title: Sparse Bottleneck Networks for Exploratory Analysis and Visualization of  Neural Patch-seq Data
+","
+Authors:
+Yves Bernaerts, 
+Philipp Berens, 
+Dmitry Kobak
+","
+Subjects: Machine Learning (cs.LG); Machine Learning (stat.ML)
+
+","['Machine Learning (cs.LG)', 'Machine Learning (stat.ML)']"
+115,arXiv:2006.10410,"
+Title: DREAM: Deep Regret minimization with Advantage baselines and Model-free  learning
+","
+Authors:
+Eric Steinberger, 
+Adam Lerer, 
+Noam Brown
+","
+Subjects: Machine Learning (cs.LG); Computer Science and Game Theory (cs.GT); Machine Learning (stat.ML)
+
+","['Machine Learning (cs.LG)', 'Computer Science and Game Theory (cs.GT)', 'Machine Learning (stat.ML)']"
+116,arXiv:2006.10409,"
+Title: A softwarized perspective of the 5G networks
+","
+Authors:
+Kleber Vieira Cardoso, 
+Cristiano Bonato Both, 
+Lúcio Rene Prade, 
+Ciro J. A. Macedo, 
+Victor Hugo L. Lopes
+","
+Subjects: Networking and Internet Architecture (cs.NI)
+",['Networking and Internet Architecture (cs.NI)']
+117,arXiv:2006.10408,"
+Title: Overcoming Classifier Imbalance for Long-tail Object Detection with  Balanced Group Softmax
+","
+Authors:
+Yu Li, 
+Tao Wang, 
+Bingyi Kang, 
+Sheng Tang, 
+Chunfeng Wang, 
+Jintao Li, 
+Jiashi Feng
+","
+Subjects: Computer Vision and Pattern Recognition (cs.CV); Machine Learning (cs.LG); Machine Learning (stat.ML)
+
+","['Computer Vision and Pattern Recognition (cs.CV)', 'Machine Learning (cs.LG)', 'Machine Learning (stat.ML)']"
+118,arXiv:2006.10406,"
+Title: Fourth-Order Anisotropic Diffusion for Inpainting and Image Compression
+","
+Authors:
+Ikram Jumakulyyev, 
+Thomas Schultz
+","
+Subjects: Computer Vision and Pattern Recognition (cs.CV)
+",['Computer Vision and Pattern Recognition (cs.CV)']
+119,arXiv:2006.10398,"
+Title: Leveraging Model Inherent Variable Importance for Stable Online Feature  Selection
+","
+Authors:
+Johannes Haug, 
+Martin Pawelczyk, 
+Klaus Broelemann, 
+Gjergji Kasneci
+","
+Subjects: Machine Learning (cs.LG); Machine Learning (stat.ML)
+
+","['Machine Learning (cs.LG)', 'Machine Learning (stat.ML)']"
+120,arXiv:2006.10396,"
+Title: OMBA: User-Guided Product Representations for Online Market Basket  Analysis
+","
+Authors:
+Amila Silva, 
+Ling Luo, 
+Shanika Karunasekera, 
+Christopher Leckie
+","
+Subjects: Machine Learning (cs.LG); Machine Learning (stat.ML)
+
+","['Machine Learning (cs.LG)', 'Machine Learning (stat.ML)']"
+121,arXiv:2006.10389,"
+Title: Interactive Recommender System via Knowledge Graph-enhanced  Reinforcement Learning
+","
+Authors:
+Sijin Zhou, 
+Xinyi Dai, 
+Haokun Chen, 
+Weinan Zhang, 
+Kan Ren, 
+Ruiming Tang, 
+Xiuqiang He, 
+Yong Yu
+","
+Subjects: Information Retrieval (cs.IR)
+",['Information Retrieval (cs.IR)']
+122,arXiv:2006.10387,"
+Title: A Theory of Black-Box Tests
+","
+Authors:
+Mohammad Torabi Dashti, 
+David Basin
+","
+Subjects: Software Engineering (cs.SE); Logic in Computer Science (cs.LO)
+
+","['Software Engineering (cs.SE)', 'Logic in Computer Science (cs.LO)']"
+123,arXiv:2006.10386,"
+Title: SceneAdapt: Scene-based domain adaptation for semantic segmentation  using adversarial learning
+","
+Authors:
+Daniele Di Mauro, 
+Antonino Furnari, 
+Giuseppe Patanè, 
+Sebastiano Battiato, 
+Giovanni Maria Farinella
+","
+Subjects: Computer Vision and Pattern Recognition (cs.CV)
+",['Computer Vision and Pattern Recognition (cs.CV)']
+124,arXiv:2006.10385,"
+Title: Topology synthesis of a 3-kink contact-aided compliant switch
+","
+Authors:
+B V S Nagendra Reddy, 
+Anupam Saxena
+","
+Subjects: Computational Engineering, Finance, and Science (cs.CE)
+","['Computational Engineering, Finance, and Science (cs.CE)']"
+125,arXiv:2006.10383,"
+Title: 3D Pipe Network Reconstruction Based on Structure from Motion with  Incremental Conic Shape Detection and Cylindrical Constraint
+","
+Authors:
+Sho kagami, 
+Hajime Taira, 
+Naoyuki Miyashita, 
+Akihiko Torii, 
+Masatoshi Okutomi
+","
+Subjects: Computer Vision and Pattern Recognition (cs.CV)
+",['Computer Vision and Pattern Recognition (cs.CV)']
+126,arXiv:2006.10382,"
+Title: No projective 16-divisible binary linear code of length 131 exists
+","
+Authors:
+Sascha Kurz
+","
+Subjects: Information Theory (cs.IT); Combinatorics (math.CO)
+
+","['Information Theory (cs.IT)', 'Combinatorics (math.CO)']"
+127,arXiv:2006.10380,"
+Title: Video Semantic Segmentation with Distortion-Aware Feature Correction
+","
+Authors:
+Jiafan Zhuang, 
+Zilei Wang, 
+Bingke Wang
+","
+Subjects: Computer Vision and Pattern Recognition (cs.CV)
+",['Computer Vision and Pattern Recognition (cs.CV)']
+128,arXiv:2006.10379,"
+Title: Temperature-Dependent Modeling of Thermoelectric Elements
+","
+Authors:
+Enzo Evers, 
+Rens Slenders, 
+Rob van Gils, 
+Tom Oomen
+","
+Subjects: Systems and Control (eess.SY)
+",['Systems and Control (eess.SY)']
+129,arXiv:2006.10373,"
+Title: On Frequency Response Function Identification for Advanced Motion  Control
+","
+Authors:
+Enzo Evers, 
+Robbert Voorhoeve, 
+Tom Oomen
+","
+Subjects: Systems and Control (eess.SY)
+",['Systems and Control (eess.SY)']
+130,arXiv:2006.10371,"
+Title: Conformal Moduli of Symmetric Circular Quadrilaterals With Cusps
+","
+Authors:
+Harri Hakula, 
+Semen Nasyrov, 
+Matti Vuorinen
+","
+Subjects: Numerical Analysis (math.NA)
+",['Numerical Analysis (math.NA)']
+131,arXiv:2006.10370,"
+Title: On the Robustness of Active Learning
+","
+Authors:
+Lukas Hahn, 
+Lutz Roese-Koerner, 
+Peet Cremer, 
+Urs Zimmermann, 
+Ori Maoz, 
+Anton Kummert
+","
+Subjects: Computer Vision and Pattern Recognition (cs.CV); Machine Learning (cs.LG)
+
+","['Computer Vision and Pattern Recognition (cs.CV)', 'Machine Learning (cs.LG)']"
+132,arXiv:2006.10369,"
+Title: Deep Encoder, Shallow Decoder: Reevaluating the Speed-Quality Tradeoff  in Machine Translation
+","
+Authors:
+Jungo Kasai, 
+Nikolaos Pappas, 
+Hao Peng, 
+James Cross, 
+Noah A. Smith
+","
+Subjects: Computation and Language (cs.CL)
+",['Computation and Language (cs.CL)']
+133,arXiv:2006.10366,"
+Title: A Mechanical Screwing Tool for 2-Finger Parallel Grippers -- Design,  Optimization, and Manipulation Policies
+","
+Authors:
+Zhengtao Hu, 
+Weiwei Wan, 
+Keisuke Koyama, 
+Kensuke Harada
+","
+Subjects: Robotics (cs.RO)
+",['Robotics (cs.RO)']
+134,arXiv:2006.10365,"
+Title: Efficient Planar Two-Center Algorithms
+","
+Authors:
+Jongmin Choi, 
+Hee-Kap Ahn
+","
+Subjects: Computational Geometry (cs.CG)
+",['Computational Geometry (cs.CG)']
+135,arXiv:2006.10364,"
+Title: On the Parameterized Approximability of Contraction to Classes of  Chordal Graphs
+","
+Authors:
+Spoorthy Gunda, 
+Pallavi Jain, 
+Daniel Lokshtanov, 
+Saket Saurabh, 
+Prafullkumar Tale
+","
+Subjects: Data Structures and Algorithms (cs.DS)
+",['Data Structures and Algorithms (cs.DS)']
+136,arXiv:2006.10361,"
+Title: A 3/2--approximation for big two-bar charts packing
+","
+Authors:
+Adil Erzin, 
+Stepan Nazarenko, 
+Gregory Melidi, 
+Roman Plotnikov
+","
+Subjects: Data Structures and Algorithms (cs.DS); Discrete Mathematics (cs.DM)
+
+","['Data Structures and Algorithms (cs.DS)', 'Discrete Mathematics (cs.DM)']"
+137,arXiv:2006.10356,"
+Title: Learning by Repetition: Stochastic Multi-armed Bandits under Priming  Effect
+","
+Authors:
+Priyank Agrawal, 
+Theja Tulabandhula
+","
+Subjects: Machine Learning (cs.LG); Artificial Intelligence (cs.AI); Machine Learning (stat.ML)
+
+","['Machine Learning (cs.LG)', 'Artificial Intelligence (cs.AI)', 'Machine Learning (stat.ML)']"
+138,arXiv:2006.10355,"
+Title: DrNAS: Dirichlet Neural Architecture Search
+","
+Authors:
+Xiangning Chen, 
+Ruochen Wang, 
+Minhao Cheng, 
+Xiaocheng Tang, 
+Cho-Jui Hsieh
+","
+Subjects: Machine Learning (cs.LG); Machine Learning (stat.ML)
+
+","['Machine Learning (cs.LG)', 'Machine Learning (stat.ML)']"
+139,arXiv:2006.10351,"
+Title: Reconstruction of finite volume solution for parameter-dependent linear  hyperbolic conservation laws
+","
+Authors:
+Marie Billaud-Friess, 
+Thomas Heuzé
+","
+Subjects: Numerical Analysis (math.NA)
+",['Numerical Analysis (math.NA)']
+140,arXiv:2006.10350,"
+Title: Kernel methods through the roof: handling billions of points efficiently
+","
+Authors:
+Giacomo Meanti, 
+Luigi Carratino, 
+Lorenzo Rosasco, 
+Alessandro Rudi
+","
+Subjects: Machine Learning (cs.LG); Machine Learning (stat.ML)
+
+","['Machine Learning (cs.LG)', 'Machine Learning (stat.ML)']"
+141,arXiv:2006.10347,"
+Title: Automated Radiological Report Generation For Chest X-Rays With  Weakly-Supervised End-to-End Deep Learning
+","
+Authors:
+Shuai Zhang, 
+Xiaoyan Xin, 
+Yang Wang, 
+Yachong Guo, 
+Qiuqiao Hao, 
+Xianfeng Yang, 
+Jun Wang, 
+Jian Zhang, 
+Bing Zhang, 
+Wei Wang
+","
+Subjects: Computer Vision and Pattern Recognition (cs.CV)
+",['Computer Vision and Pattern Recognition (cs.CV)']
+142,arXiv:2006.10345,"
+Title: Quantifying Assurance in Learning-enabled Systems
+","
+Authors:
+Erfan Asaadi, 
+Ewen Denney, 
+Ganesh Pai
+","
+Subjects: Software Engineering (cs.SE); Machine Learning (cs.LG); Systems and Control (eess.SY)
+
+","['Software Engineering (cs.SE)', 'Machine Learning (cs.LG)', 'Systems and Control (eess.SY)']"
+143,arXiv:2006.10343,"
+Title: Advances in Black-Box VI: Normalizing Flows, Importance Weighting, and  Optimization
+","
+Authors:
+Abhinav Agrawal, 
+Daniel Sheldon, 
+Justin Domke
+","
+Subjects: Machine Learning (cs.LG); Machine Learning (stat.ML)
+
+","['Machine Learning (cs.LG)', 'Machine Learning (stat.ML)']"
+144,arXiv:2006.10337,"
+Title: Category-Specific CNN for Visual-aware CTR Prediction at JD.com
+","
+Authors:
+Hu Liu, 
+Jing Lu, 
+Hao Yang, 
+Xiwei Zhao, 
+Sulong Xu, 
+Hao Peng, 
+Zehua Zhang, 
+Wenjie Niu, 
+Xiaokun Zhu, 
+Yongjun Bao, 
+Weipeng Yan
+","
+Subjects: Machine Learning (cs.LG); Machine Learning (stat.ML)
+
+","['Machine Learning (cs.LG)', 'Machine Learning (stat.ML)']"
+145,arXiv:2006.10336,"
+Title: Cascaded Regression Tracking: Towards Online Hard Distractor  Discrimination
+","
+Authors:
+Ning Wang, 
+Wengang Zhou, 
+Qi Tian, 
+Houqiang Li
+","
+Subjects: Computer Vision and Pattern Recognition (cs.CV)
+",['Computer Vision and Pattern Recognition (cs.CV)']
+146,arXiv:2006.10334,"
+Title: Extraction and Evaluation of Formulaic Expressions Used in Scholarly  Papers
+","
+Authors:
+Kenichi Iwatsuki, 
+Florian Boudin, 
+Akiko Aizawa
+","
+Subjects: Computation and Language (cs.CL); Digital Libraries (cs.DL)
+
+","['Computation and Language (cs.CL)', 'Digital Libraries (cs.DL)']"
+147,arXiv:2006.10333,"
+Title: A discrete-event simulation model for driver performance assessment:  application to autonomous vehicle cockpit design optimization
+","
+Authors:
+Ilya Yuskevich (IRT SystemX, LGI), 
+A. Hein (LGI), 
+Kahina Amokrane-Ferka (IRT SystemX), 
+Abdelkrim Doufene (IRT SystemX), 
+Marija Jankovic (LGI)
+","
+Subjects: Human-Computer Interaction (cs.HC)
+",['Human-Computer Interaction (cs.HC)']
+148,arXiv:2006.10331,"
+Title: MMCGAN: Generative Adversarial Network with Explicit Manifold Prior
+","
+Authors:
+Guanhua Zheng, 
+Jitao Sang, 
+Changsheng Xu
+","
+Subjects: Machine Learning (cs.LG); Machine Learning (stat.ML)
+
+","['Machine Learning (cs.LG)', 'Machine Learning (stat.ML)']"
+149,arXiv:2006.10330,"
+Title: A Shooting Formulation of Deep Learning
+","
+Authors:
+François-Xavier Vialard (ligm), 
+Roland Kwitt, 
+Susan Wei, 
+Marc Niethammer
+","
+Subjects: Neural and Evolutionary Computing (cs.NE); Machine Learning (cs.LG); Optimization and Control (math.OC)
+
+","['Neural and Evolutionary Computing (cs.NE)', 'Machine Learning (cs.LG)', 'Optimization and Control (math.OC)']"
+150,arXiv:2006.10320,"
+Title: Reconfigurable Intelligent Surfaces for Energy Efficiency in D2D  Communication Network
+","
+Authors:
+Shuaiqi Jia, 
+Xiaojun Yuan, 
+Ying-Chang Liang
+","
+Subjects: Information Theory (cs.IT); Signal Processing (eess.SP)
+
+","['Information Theory (cs.IT)', 'Signal Processing (eess.SP)']"
+151,arXiv:2006.10318,"
+Title: Drift with Devil: Security of Multi-Sensor Fusion based Localization in  High-Level Autonomous Driving under GPS Spoofing (Extended Version)
+","
+Authors:
+Junjie Shen, 
+Jun Yeon Won, 
+Zeyuan Chen, 
+Qi Alfred Chen
+","
+Subjects: Cryptography and Security (cs.CR); Robotics (cs.RO)
+
+","['Cryptography and Security (cs.CR)', 'Robotics (cs.RO)']"
+152,arXiv:2006.10310,"
+Title: Neural Architecture Optimization with Graph VAE
+","
+Authors:
+Jian Li, 
+Yong Liu, 
+Jiankun Liu, 
+Weiping Wang
+","
+Subjects: Machine Learning (cs.LG); Machine Learning (stat.ML)
+
+","['Machine Learning (cs.LG)', 'Machine Learning (stat.ML)']"
+153,arXiv:2006.10307,"
+Title: Multivariate spline bases, oriented matroids and zonotopal tilings
+","
+Authors:
+Hélène Barucq (Magique 3D), 
+Henri Calandra (CSTJF), 
+Julien Diaz (LMAP, Magique 3D), 
+Stefano Frambati (CSTJF, Magique 3D)
+","
+Subjects: Numerical Analysis (math.NA)
+",['Numerical Analysis (math.NA)']
+154,arXiv:2006.10306,"
+Title: A Survey of COVID-19 Contact Tracing Apps
+","
+Authors:
+Nadeem Ahmed, 
+Regio A. Michelin, 
+Wanli Xue, 
+Sushmita Ruj, 
+Robert Malaney, 
+Salil S. Kanhere, 
+Aruna Seneviratne, 
+Wen Hu, 
+Helge Janicke, 
+Sanjay Jha
+","
+Subjects: Cryptography and Security (cs.CR)
+",['Cryptography and Security (cs.CR)']
+155,arXiv:2006.10304,"
+Title: Automatic Speech Recognition Benchmark for Air-Traffic Communications
+","
+Authors:
+Juan Zuluaga-Gomez, 
+Petr Motlicek, 
+Qingran Zhan, 
+Karel Vesely, 
+Rudolf Braun
+","
+Subjects: Computation and Language (cs.CL); Computer Vision and Pattern Recognition (cs.CV); Machine Learning (cs.LG); Sound (cs.SD); Audio and Speech Processing (eess.AS)
+
+","['Computation and Language (cs.CL)', 'Computer Vision and Pattern Recognition (cs.CV)', 'Machine Learning (cs.LG)', 'Sound (cs.SD)', 'Audio and Speech Processing (eess.AS)']"
+156,arXiv:2006.10302,"
+Title: Approximate bi-criteria search by efficient representation of subsets of  the Pareto-optimal frontier
+","
+Authors:
+Oren Salzman
+","
+Subjects: Data Structures and Algorithms (cs.DS)
+",['Data Structures and Algorithms (cs.DS)']
+157,arXiv:2006.10297,"
+Title: Joint Contrastive Learning for Unsupervised Domain Adaptation
+","
+Authors:
+Changhwa Park, 
+Jonghyun Lee, 
+Jaeyoon Yoo, 
+Minhoe Hur, 
+Sungroh Yoon
+","
+Subjects: Computer Vision and Pattern Recognition (cs.CV); Machine Learning (cs.LG)
+
+","['Computer Vision and Pattern Recognition (cs.CV)', 'Machine Learning (cs.LG)']"
+158,arXiv:2006.10293,"
+Title: GAT-GMM: Generative Adversarial Training for Gaussian Mixture Models
+","
+Authors:
+Farzan Farnia, 
+William Wang, 
+Subhro Das, 
+Ali Jadbabaie
+","
+Subjects: Machine Learning (cs.LG); Machine Learning (stat.ML)
+
+","['Machine Learning (cs.LG)', 'Machine Learning (stat.ML)']"
+159,arXiv:2006.10289,"
+Title: On the Design of Chaos-Based S-boxes
+","
+Authors:
+Miroslav Dimitrov
+","
+Subjects: Cryptography and Security (cs.CR)
+",['Cryptography and Security (cs.CR)']
+160,arXiv:2006.10286,"
+Title: Cyclic space-filling curves and their clustering property
+","
+Authors:
+Igor V. Netay
+","
+Subjects: Data Structures and Algorithms (cs.DS); Computational Geometry (cs.CG)
+
+","['Data Structures and Algorithms (cs.DS)', 'Computational Geometry (cs.CG)']"
+161,arXiv:2006.10284,"
+Title: GNSS Spoofing Detection via Opportunistic IRIDIUM Signals
+","
+Authors:
+Gabriele Oligeri, 
+Savio Sciancalepore, 
+Roberto Di Pietro
+","
+Subjects: Cryptography and Security (cs.CR); Signal Processing (eess.SP)
+
+","['Cryptography and Security (cs.CR)', 'Signal Processing (eess.SP)']"
+162,arXiv:2006.10280,"
+Title: CoinWatch: A Clone-Based Approach For Detecting Vulnerabilities in  Cryptocurrencies
+","
+Authors:
+Qingze Hum, 
+Wei Jin Tan, 
+Shi Ying Tey, 
+Latasha Lenus, 
+Ivan Homoliak, 
+Yun Lin, 
+Jun Sun
+","
+Subjects: Cryptography and Security (cs.CR)
+",['Cryptography and Security (cs.CR)']
+163,arXiv:2006.10276,"
+Title: Octet: Online Catalog Taxonomy Enrichment with Self-Supervision
+","
+Authors:
+Yuning Mao, 
+Tong Zhao, 
+Andrey Kan, 
+Chenwei Zhang, 
+Xin Luna Dong, 
+Christos Faloutsos, 
+Jiawei Han
+","
+Subjects: Computation and Language (cs.CL)
+",['Computation and Language (cs.CL)']
+164,arXiv:2006.10273,"
+Title: A Tutorial on VAEs: From Bayes' Rule to Lossless Compression
+","
+Authors:
+Ronald Yu
+","
+Subjects: Machine Learning (cs.LG); Machine Learning (stat.ML)
+
+","['Machine Learning (cs.LG)', 'Machine Learning (stat.ML)']"
+165,arXiv:2006.10272,"
+Title: Improving Urban Traffic Throughput with Vehicle Platooning: Theory and  Experiments
+","
+Authors:
+Stanley W. Smith, 
+Yeojun Kim, 
+Jacopo Guanetti, 
+Ruolin Li, 
+Roya Firoozi, 
+Bruce Wootton, 
+Alexander A. Kurzhanskiy, 
+Francesco Borrelli, 
+Roberto Horowitz, 
+Murat Arcak
+","
+Subjects: Systems and Control (eess.SY); Optimization and Control (math.OC)
+
+","['Systems and Control (eess.SY)', 'Optimization and Control (math.OC)']"
+166,arXiv:2006.10270,"
+Title: Multi-branch Attentive Transformer
+","
+Authors:
+Yang Fan, 
+Shufang Xie, 
+Yingce Xia, 
+Lijun Wu, 
+Tao Qin, 
+Xiang-Yang Li, 
+Tie-Yan Liu
+","
+Subjects: Computation and Language (cs.CL)
+",['Computation and Language (cs.CL)']
+167,arXiv:2006.10268,"
+Title: A Fast Binary Splitting Approach to Non-Adaptive Group Testing
+","
+Authors:
+Eric Price, 
+Jonathan Scarlett
+","
+Subjects: Information Theory (cs.IT); Data Structures and Algorithms (cs.DS)
+
+","['Information Theory (cs.IT)', 'Data Structures and Algorithms (cs.DS)']"
+168,arXiv:2006.10260,"
+Title: Video Moment Localization using Object Evidence and Reverse Captioning
+","
+Authors:
+Madhawa Vidanapathirana, 
+Supriya Pandhre, 
+Sonia Raychaudhuri, 
+Anjali Khurana
+","
+Subjects: Computer Vision and Pattern Recognition (cs.CV); Multimedia (cs.MM)
+
+","['Computer Vision and Pattern Recognition (cs.CV)', 'Multimedia (cs.MM)']"
+169,arXiv:2006.10256,"
+Title: Array Programming with NumPy
+","
+Authors:
+Charles R. Harris, 
+K. Jarrod Millman, 
+Stéfan J. van der Walt, 
+Ralf Gommers, 
+Pauli Virtanen, 
+David Cournapeau, 
+Eric Wieser, 
+Julian Taylor, 
+Sebastian Berg, 
+Nathaniel J. Smith, 
+Robert Kern, 
+Matti Picus, 
+Stephan Hoyer, 
+Marten H. van Kerkwijk, 
+Matthew Brett, 
+Allan Haldane, 
+Jaime Fernández del Río, 
+Mark Wiebe, 
+Pearu Peterson, 
+Pierre Gérard-Marchant, 
+Kevin Sheppard, 
+Tyler Reddy, 
+Warren Weckesser, 
+Hameer Abbasi, 
+Christoph Gohlke, 
+Travis E. Oliphant
+","
+Subjects: Mathematical Software (cs.MS); Computation (stat.CO)
+
+","['Mathematical Software (cs.MS)', 'Computation (stat.CO)']"
+170,arXiv:2006.10255,"
+Title: Calibrated Reliable Regression using Maximum Mean Discrepancy
+","
+Authors:
+Peng Cui, 
+Wenbo Hu, 
+Jun Zhu
+","
+Subjects: Machine Learning (cs.LG); Machine Learning (stat.ML)
+
+","['Machine Learning (cs.LG)', 'Machine Learning (stat.ML)']"
+171,arXiv:2006.10252,"
+Title: Quantifying Challenges in the Application of Graph Representation  Learning
+","
+Authors:
+Antonia Gogoglou, 
+C. Bayan Bruss, 
+Brian Nguyen, 
+Reza Sarshogh, 
+Keegan E. Hines
+","
+Subjects: Machine Learning (cs.LG); Machine Learning (stat.ML)
+
+","['Machine Learning (cs.LG)', 'Machine Learning (stat.ML)']"
+172,arXiv:2006.10250,"
+Title: Progressively Unfreezing Perceptual GAN
+","
+Authors:
+Jinxuan Sun, 
+Yang Chen, 
+Junyu Dong, 
+Guoqiang Zhong
+","
+Subjects: Computer Vision and Pattern Recognition (cs.CV); Image and Video Processing (eess.IV)
+
+","['Computer Vision and Pattern Recognition (cs.CV)', 'Image and Video Processing (eess.IV)']"
+173,arXiv:2006.10246,"
+Title: The Recurrent Neural Tangent Kernel
+","
+Authors:
+Sina Alemohammad, 
+Zichao Wang, 
+Randall Balestriero, 
+Richard Baraniuk
+","
+Subjects: Machine Learning (cs.LG); Machine Learning (stat.ML)
+
+","['Machine Learning (cs.LG)', 'Machine Learning (stat.ML)']"
+174,arXiv:2006.10241,"
+Title: Robust Unsupervised Learning of Temporal Dynamic Interactions
+","
+Authors:
+Aritra Guha, 
+Rayleigh Lei, 
+Jiacheng Zhu, 
+XuanLong Nguyen, 
+Ding Zhao
+","
+Subjects: Machine Learning (cs.LG); Multiagent Systems (cs.MA); Robotics (cs.RO); Applications (stat.AP); Machine Learning (stat.ML)
+
+","['Machine Learning (cs.LG)', 'Multiagent Systems (cs.MA)', 'Robotics (cs.RO)', 'Applications (stat.AP)', 'Machine Learning (stat.ML)']"
+175,arXiv:2006.10239,"
+Title: Local structure of idempotent algebras II
+","
+Authors:
+Andrei A. Bulatov
+","
+Subjects: Logic in Computer Science (cs.LO); Combinatorics (math.CO)
+
+","['Logic in Computer Science (cs.LO)', 'Combinatorics (math.CO)']"
+176,arXiv:2006.10237,"
+Title: Enterprise System Lifecycle-wide Innovation
+","
+Authors:
+Sachithra Lokuge, 
+Darshana Sedera
+","
+Subjects: Computers and Society (cs.CY); Information Theory (cs.IT)
+
+","['Computers and Society (cs.CY)', 'Information Theory (cs.IT)']"
+177,arXiv:2006.10236,"
+Title: Unsupervised Meta-Learning through Latent-Space Interpolation in  Generative Models
+","
+Authors:
+Siavash Khodadadeh, 
+Sharare Zehtabian, 
+Saeed Vahidian, 
+Weijia Wang, 
+Bill Lin, 
+Ladislau Bölöni
+","
+Subjects: Machine Learning (cs.LG); Machine Learning (stat.ML)
+
+","['Machine Learning (cs.LG)', 'Machine Learning (stat.ML)']"
+178,arXiv:2006.10233,"
+Title: A Knowledge-Enhanced Recommendation Model with Attribute-Level  Co-Attention
+","
+Authors:
+Deqing Yang, 
+Zengcun Song, 
+Lvxin Xue, 
+Yanghua Xiao
+","
+Subjects: Information Retrieval (cs.IR); Machine Learning (cs.LG)
+
+","['Information Retrieval (cs.IR)', 'Machine Learning (cs.LG)']"
+179,arXiv:2006.10232,"
+Title: Towards Auditability Requirements Specification Using an Agent-Based  Approach
+","
+Authors:
+Denis J. S. de Albuquerque, 
+Vanessa Tavares Nunes, 
+Claudia Cappelli, 
+Celia Ghedini Ralha
+","
+Subjects: Multiagent Systems (cs.MA); Software Engineering (cs.SE)
+
+","['Multiagent Systems (cs.MA)', 'Software Engineering (cs.SE)']"
+180,arXiv:2006.10228,"
+Title: A Study on AI-FML Robotic Agent for Student Learning Behavior Ontology  Construction
+","
+Authors:
+Chang-Shing Lee, 
+Mei-Hui Wang, 
+Wen-Kai Kuan, 
+Zong-Han Ciou, 
+Yi-Lin Tsai, 
+Wei-Shan Chang, 
+Lian-Chao Li, 
+Naoyuki Kubota, 
+Tzong-Xiang Huang, 
+Eri Sato-Shimokawara, 
+Toru Yamaguchi
+","
+Subjects: Artificial Intelligence (cs.AI); Computers and Society (cs.CY); Human-Computer Interaction (cs.HC)
+
+","['Artificial Intelligence (cs.AI)', 'Computers and Society (cs.CY)', 'Human-Computer Interaction (cs.HC)']"
+181,arXiv:2006.10226,"
+Title: Efficient Execution of Quantized Deep Learning Models: A Compiler  Approach
+","
+Authors:
+Animesh Jain, 
+Shoubhik Bhattacharya, 
+Masahiro Masuda, 
+Vin Sharma, 
+Yida Wang
+","
+Subjects: Distributed, Parallel, and Cluster Computing (cs.DC); Machine Learning (cs.LG); Programming Languages (cs.PL)
+
+","['Distributed, Parallel, and Cluster Computing (cs.DC)', 'Machine Learning (cs.LG)', 'Programming Languages (cs.PL)']"
+182,arXiv:2006.10225,"
+Title: On Sparsity in Overparametrised Shallow ReLU Networks
+","
+Authors:
+Jaume de Dios, 
+Joan Bruna
+","
+Subjects: Machine Learning (cs.LG); Machine Learning (stat.ML)
+
+","['Machine Learning (cs.LG)', 'Machine Learning (stat.ML)']"
+183,arXiv:2006.10222,"
+Title: Class-Attentive Diffusion Network for Semi-Supervised Classification
+","
+Authors:
+Jongin Lim, 
+Daeho Um, 
+Hyung Jin Chang, 
+Dae Ung Jo, 
+Jin Young Choi
+","
+Subjects: Machine Learning (cs.LG); Machine Learning (stat.ML)
+
+","['Machine Learning (cs.LG)', 'Machine Learning (stat.ML)']"
+184,arXiv:2006.10221,"
+Title: Fair Hierarchical Clustering
+","
+Authors:
+Sara Ahmadian, 
+Alessandro Epasto, 
+Marina Knittel, 
+Ravi Kumar, 
+Mohammad Mahdian, 
+Benjamin Moseley, 
+Philip Pham, 
+Sergei Vassilvtiskii, 
+Yuyan Wang
+","
+Subjects: Data Structures and Algorithms (cs.DS); Machine Learning (cs.LG); Machine Learning (stat.ML)
+
+","['Data Structures and Algorithms (cs.DS)', 'Machine Learning (cs.LG)', 'Machine Learning (stat.ML)']"
+185,arXiv:2006.10220,"
+Title: I-BERT: Inductive Generalization of Transformer to Arbitrary Context  Lengths
+","
+Authors:
+Hyoungwook Nam, 
+Seung Byum Seo, 
+Vikram Sharma Malithody, 
+Noor Michael, 
+Lan Li
+","
+Subjects: Machine Learning (cs.LG); Machine Learning (stat.ML)
+
+","['Machine Learning (cs.LG)', 'Machine Learning (stat.ML)']"
+186,arXiv:2006.10219,"
+Title: Sequential Graph Convolutional Network for Active Learning
+","
+Authors:
+Razvan Caramalau, 
+Binod Bhattarai, 
+Tae-Kyun Kim
+","
+Subjects: Computer Vision and Pattern Recognition (cs.CV); Machine Learning (cs.LG)
+
+","['Computer Vision and Pattern Recognition (cs.CV)', 'Machine Learning (cs.LG)']"
+187,arXiv:2006.10217,"
+Title: STEAM: Self-Supervised Taxonomy Expansion with Mini-Paths
+","
+Authors:
+Yue Yu, 
+Yinghao Li, 
+Jiaming Shen, 
+Hao Feng, 
+Jimeng Sun, 
+Chao Zhang
+","
+Subjects: Computation and Language (cs.CL); Information Retrieval (cs.IR)
+
+","['Computation and Language (cs.CL)', 'Information Retrieval (cs.IR)']"
+188,arXiv:2006.10214,"
+Title: MediaPipe Hands: On-device Real-time Hand Tracking
+","
+Authors:
+Fan Zhang, 
+Valentin Bazarevsky, 
+Andrey Vakunov, 
+Andrei Tkachenka, 
+George Sung, 
+Chuo-Ling Chang, 
+Matthias Grundmann
+","
+Subjects: Computer Vision and Pattern Recognition (cs.CV)
+",['Computer Vision and Pattern Recognition (cs.CV)']
+189,arXiv:2006.10213,"
+Title: SEAL: Segment-wise Extractive-Abstractive Long-form Text Summarization
+","
+Authors:
+Yao Zhao, 
+Mohammad Saleh, 
+Peter J.Liu
+","
+Subjects: Computation and Language (cs.CL); Information Retrieval (cs.IR); Machine Learning (cs.LG)
+
+","['Computation and Language (cs.CL)', 'Information Retrieval (cs.IR)', 'Machine Learning (cs.LG)']"
+190,arXiv:2006.10211,"
+Title: UV-Net: Learning from Curve-Networks and Solids
+","
+Authors:
+Pradeep Kumar Jayaraman, 
+Aditya Sanghi, 
+Joseph Lambourne, 
+Thomas Davies, 
+Hooman Shayani, 
+Nigel Morris
+","
+Subjects: Computer Vision and Pattern Recognition (cs.CV); Machine Learning (cs.LG)
+
+","['Computer Vision and Pattern Recognition (cs.CV)', 'Machine Learning (cs.LG)']"
+191,arXiv:2006.10208,"
+Title: Record fusion: A learning approach
+","
+Authors:
+Alireza Heidari, 
+George Michalopoulos, 
+Shrinu Kushagra, 
+Ihab F. Ilyas, 
+Theodoros Rekatsinas
+","
+Subjects: Machine Learning (cs.LG); Databases (cs.DB); Information Retrieval (cs.IR); Machine Learning (stat.ML)
+
+","['Machine Learning (cs.LG)', 'Databases (cs.DB)', 'Information Retrieval (cs.IR)', 'Machine Learning (stat.ML)']"
+192,arXiv:2006.10207,"
+Title: Political Advertising Dataset: the use case of the Polish 2020  Presidential Elections
+","
+Authors:
+Łukasz Augustyniak, 
+Krzysztof Rajda, 
+Tomasz Kajdanowicz, 
+Michał Bernaczyk
+","
+Subjects: Computation and Language (cs.CL); Computational Complexity (cs.CC); Information Retrieval (cs.IR); Machine Learning (cs.LG)
+
+","['Computation and Language (cs.CL)', 'Computational Complexity (cs.CC)', 'Information Retrieval (cs.IR)', 'Machine Learning (cs.LG)']"
+193,arXiv:2006.10204,"
+Title: BlazePose: On-device Real-time Body Pose tracking
+","
+Authors:
+Valentin Bazarevsky, 
+Ivan Grishchenko, 
+Karthik Raveendran, 
+Tyler Zhu, 
+Fan Zhang, 
+Matthias Grundmann
+","
+Subjects: Computer Vision and Pattern Recognition (cs.CV)
+",['Computer Vision and Pattern Recognition (cs.CV)']
+194,arXiv:2006.10202,"
+Title: HyNet: Local Descriptor with Hybrid Similarity Measure and Triplet Loss
+","
+Authors:
+Yurun Tian, 
+Axel Barroso-Laguna, 
+Tony Ng, 
+Vassileios Balntas, 
+Krystian Mikolajczyk
+","
+Subjects: Computer Vision and Pattern Recognition (cs.CV)
+",['Computer Vision and Pattern Recognition (cs.CV)']
+195,arXiv:2006.10201,"
+Title: On the Role of Sparsity and DAG Constraints for Learning Linear DAGs
+","
+Authors:
+Ignavier Ng, 
+AmirEmad Ghassami, 
+Kun Zhang
+","
+Subjects: Machine Learning (cs.LG); Machine Learning (stat.ML)
+
+","['Machine Learning (cs.LG)', 'Machine Learning (stat.ML)']"
+196,arXiv:2006.10199,"
+Title: Head2Head++: Deep Facial Attributes Re-Targeting
+","
+Authors:
+Michail Christos Doukas, 
+Mohammad Rami Koujan, 
+Viktoriia Sharmanska, 
+Anastasios Roussos
+","
+Subjects: Computer Vision and Pattern Recognition (cs.CV); Machine Learning (cs.LG); Image and Video Processing (eess.IV)
+
+","['Computer Vision and Pattern Recognition (cs.CV)', 'Machine Learning (cs.LG)', 'Image and Video Processing (eess.IV)']"
+197,arXiv:2006.10196,"
+Title: MBTree: Detecting Encryption RAT Communication Using Malicious Behavior  Tree
+","
+Authors:
+Cong Dong, 
+Zhigang Lu, 
+Yufan Chen, 
+Zelin Cui, 
+Baoxu Liu
+","
+Subjects: Cryptography and Security (cs.CR)
+",['Cryptography and Security (cs.CR)']
+198,arXiv:2006.10194,"
+Title: Gender Inequality in Research Productivity During the COVID-19 Pandemic
+","
+Authors:
+Ruomeng Cui (1), 
+Hao Ding (1), 
+Feng Zhu (2) ((1) Goizueta Business School, Emory University, (2) Harvard Business School, Harvard University)
+","
+Subjects: Digital Libraries (cs.DL); General Economics (econ.GN)
+
+","['Digital Libraries (cs.DL)', 'General Economics (econ.GN)']"
+199,arXiv:2006.10191,"
+Title: Using Collaborative Filtering to Recommend Champions in League of  Legends
+","
+Authors:
+Tiffany D. Do, 
+Dylan S. Yu, 
+Salman Anwer, 
+Seong Ioi Wang
+","
+Subjects: Human-Computer Interaction (cs.HC)
+",['Human-Computer Interaction (cs.HC)']
+200,arXiv:2006.10190,"
+Title: Learning to Track Dynamic Targets in Partially Known Environments
+","
+Authors:
+Heejin Jeong, 
+Hamed Hassani, 
+Manfred Morari, 
+Daniel D. Lee, 
+George J. Pappas
+","
+Subjects: Machine Learning (cs.LG); Robotics (cs.RO); Machine Learning (stat.ML)
+
+","['Machine Learning (cs.LG)', 'Robotics (cs.RO)', 'Machine Learning (stat.ML)']"
+201,arXiv:2006.10189,"
+Title: Revisiting complexity and the bias-variance tradeoff
+","
+Authors:
+Raaz Dwivedi, 
+Chandan Singh, 
+Bin Yu, 
+Martin J. Wainwright
+","
+Subjects: Machine Learning (cs.LG); Information Theory (cs.IT); Statistics Theory (math.ST); Machine Learning (stat.ML)
+
+","['Machine Learning (cs.LG)', 'Information Theory (cs.IT)', 'Statistics Theory (math.ST)', 'Machine Learning (stat.ML)']"
+202,arXiv:2006.10188,"
+Title: Wide-Area Data Analytics
+","
+Authors:
+Rachit Agarwal, 
+Jen Rexford (workshop co-chairs)
+with contributions from numerous workshop attendees
+","
+Subjects: Computers and Society (cs.CY); Databases (cs.DB); Networking and Internet Architecture (cs.NI)
+
+","['Computers and Society (cs.CY)', 'Databases (cs.DB)', 'Networking and Internet Architecture (cs.NI)']"
+203,arXiv:2006.10187,"
+Title: TearingNet: Point Cloud Autoencoder to Learn Topology-Friendly  Representations
+","
+Authors:
+Jiahao Pang, 
+Duanshun Li, 
+Dong Tian
+","
+Subjects: Computer Vision and Pattern Recognition (cs.CV)
+",['Computer Vision and Pattern Recognition (cs.CV)']
+204,arXiv:2006.10185,"
+Title: Stochastic Bandits with Linear Constraints
+","
+Authors:
+Aldo Pacchiano, 
+Mohammad Ghavamzadeh, 
+Peter Bartlett, 
+Heinrich Jiang
+","
+Subjects: Machine Learning (cs.LG); Machine Learning (stat.ML)
+
+","['Machine Learning (cs.LG)', 'Machine Learning (stat.ML)']"
+205,arXiv:2006.10177,"
+Title: A Language for Autonomous Vehicles Testing Oracles
+","
+Authors:
+Ana Nora Evans, 
+Mary Lou Soffa, 
+Sebastian Elbaum
+","
+Subjects: Software Engineering (cs.SE)
+",['Software Engineering (cs.SE)']
+206,arXiv:2006.10175,"
+Title: Flows Succeed Where GANs Fail: Lessons from Low-Dimensional Data
+","
+Authors:
+Tianci Liu, 
+Jeffrey Regier
+","
+Subjects: Machine Learning (cs.LG); Machine Learning (stat.ML)
+
+","['Machine Learning (cs.LG)', 'Machine Learning (stat.ML)']"
+207,arXiv:2006.10174,"
+Title: MIMICS: A Large-Scale Data Collection for Search Clarification
+","
+Authors:
+Hamed Zamani, 
+Gord Lueck, 
+Everest Chen, 
+Rodolfo Quispe, 
+Flint Luu, 
+Nick Craswell
+","
+Subjects: Information Retrieval (cs.IR); Computation and Language (cs.CL); Machine Learning (cs.LG)
+
+","['Information Retrieval (cs.IR)', 'Computation and Language (cs.CL)', 'Machine Learning (cs.LG)']"
+208,arXiv:2006.10172,"
+Title: Sky Optimization: Semantically aware image processing of skies in  low-light photography
+","
+Authors:
+Orly Liba, 
+Longqi Cai, 
+Yun-Ta Tsai, 
+Elad Eban, 
+Yair Movshovitz-Attias, 
+Yael Pritch, 
+Huizhong Chen, 
+Jonathan T. Barron
+","
+Subjects: Computer Vision and Pattern Recognition (cs.CV); Graphics (cs.GR)
+
+","['Computer Vision and Pattern Recognition (cs.CV)', 'Graphics (cs.GR)']"
+209,arXiv:2006.10168,"
+Title: Real-time visualisation of fugue played by a string quartet
+","
+Authors:
+Olivier Lartillot, 
+Carlos Cancino-Chacón, 
+Charles Brazier
+","
+Subjects: Sound (cs.SD); Audio and Speech Processing (eess.AS)
+
+","['Sound (cs.SD)', 'Audio and Speech Processing (eess.AS)']"
+210,arXiv:2006.10166,"
+Title: Deep Network for Scatterer Distribution Estimation for Ultrasound Image  Simulation
+","
+Authors:
+Lin Zhang, 
+Valery Vishnevskiy, 
+Orcun Goksel
+","
+Subjects: Computer Vision and Pattern Recognition (cs.CV); Image and Video Processing (eess.IV)
+
+","['Computer Vision and Pattern Recognition (cs.CV)', 'Image and Video Processing (eess.IV)']"
+211,arXiv:2006.10164,"
+Title: A simple extrapolation method for clustered eigenvalues
+","
+Authors:
+Nilima Nigam, 
+Sara Pollock
+","
+Subjects: Numerical Analysis (math.NA)
+",['Numerical Analysis (math.NA)']
+212,arXiv:2006.10158,"
+Title: An Automatically Created Novel Bug Dataset and its Validation in Bug  Prediction
+","
+Authors:
+Rudolf Ferenc, 
+Péter Gyimesi, 
+Gábor Gyimesi, 
+Zoltán Tóth, 
+Tibor Gyimóthy
+","
+Subjects: Software Engineering (cs.SE)
+",['Software Engineering (cs.SE)']
+213,arXiv:2006.10157,"
+Title: Is this Dialogue Coherent? Learning from Dialogue Acts and Entities
+","
+Authors:
+Alessandra Cervone, 
+Giuseppe Riccardi
+","
+Subjects: Computation and Language (cs.CL)
+",['Computation and Language (cs.CL)']
+214,arXiv:2006.10145,"
+Title: Using Sentiment Information for Preemptive Detection of Toxic Comments  in Online Conversations
+","
+Authors:
+Éloi Brassard-Gourdeau, 
+Richard Khoury
+","
+Subjects: Social and Information Networks (cs.SI); Computation and Language (cs.CL)
+
+","['Social and Information Networks (cs.SI)', 'Computation and Language (cs.CL)']"
+215,arXiv:2006.10141,"
+Title: Self-supervised Learning on Graphs: Deep Insights and New Direction
+","
+Authors:
+Wei Jin, 
+Tyler Derr, 
+Haochen Liu, 
+Yiqi Wang, 
+Suhang Wang, 
+Zitao Liu, 
+Jiliang Tang
+","
+Subjects: Machine Learning (cs.LG); Machine Learning (stat.ML)
+
+","['Machine Learning (cs.LG)', 'Machine Learning (stat.ML)']"
+216,arXiv:2006.10138,"
+Title: A Practical Online Method for Distributionally Deep Robust Optimization
+","
+Authors:
+Qi Qi, 
+Zhishuai Guo, 
+Yi Xu, 
+Rong Jin, 
+Tianbao Yang
+","
+Subjects: Machine Learning (cs.LG); Computer Vision and Pattern Recognition (cs.CV); Machine Learning (stat.ML)
+
+","['Machine Learning (cs.LG)', 'Computer Vision and Pattern Recognition (cs.CV)', 'Machine Learning (stat.ML)']"
+217,arXiv:2006.10135,"
+Title: M2Net: Multi-modal Multi-channel Network for Overall Survival Time  Prediction of Brain Tumor Patients
+","
+Authors:
+Tao Zhou, 
+Huazhu Fu, 
+Yu Zhang, 
+Changqing Zhang, 
+Xiankai Lu, 
+Jianbing Shen, 
+Ling Shao
+","
+Subjects: Image and Video Processing (eess.IV); Computer Vision and Pattern Recognition (cs.CV); Machine Learning (cs.LG)
+
+","['Image and Video Processing (eess.IV)', 'Computer Vision and Pattern Recognition (cs.CV)', 'Machine Learning (cs.LG)']"
+218,arXiv:2006.10132,"
+Title: Interpreting the Latent Space of GANs via Correlation Analysis for  Controllable Concept Manipulation
+","
+Authors:
+Ziqiang Li, 
+Rentuo Tao, 
+Hongjing Niu, 
+Bin Li
+","
+Subjects: Computer Vision and Pattern Recognition (cs.CV); Machine Learning (cs.LG); Machine Learning (stat.ML)
+
+","['Computer Vision and Pattern Recognition (cs.CV)', 'Machine Learning (cs.LG)', 'Machine Learning (stat.ML)']"
+219,arXiv:2006.10131,"
+Title: A two-dimensional multi-class traffic flow model
+","
+Authors:
+Caterina Balzotti, 
+Simone Göttlich
+","
+Subjects: Numerical Analysis (math.NA)
+",['Numerical Analysis (math.NA)']
+220,arXiv:2006.10129,"
+Title: Smoothed Analysis of Online and Differentially Private Learning
+","
+Authors:
+Nika Haghtalab, 
+Tim Roughgarden, 
+Abhishek Shetty
+","
+Subjects: Machine Learning (cs.LG); Data Structures and Algorithms (cs.DS); Machine Learning (stat.ML)
+
+","['Machine Learning (cs.LG)', 'Data Structures and Algorithms (cs.DS)', 'Machine Learning (stat.ML)']"
+221,arXiv:2006.10125,"
+Title: Sustainable Recreational Fishing Using a Novel Electrical Muscle  Stimulation (EMS) Lure and Ensemble Network Algorithm to Maximize Catch and  Release Survivability
+","
+Authors:
+Petteri Haverinen, 
+Krithik Ramesh, 
+Nathan Wang
+","
+Subjects: Computer Vision and Pattern Recognition (cs.CV); Machine Learning (cs.LG)
+
+","['Computer Vision and Pattern Recognition (cs.CV)', 'Machine Learning (cs.LG)']"
+222,arXiv:2006.10124,"
+Title: Improvements in Computation and Usage of Joint CDFs for the  N-Dimensional Order Statistic
+","
+Authors:
+Arvind Thiagarajan
+","
+Subjects: Machine Learning (cs.LG); Information Retrieval (cs.IR); Computation (stat.CO); Machine Learning (stat.ML)
+
+","['Machine Learning (cs.LG)', 'Information Retrieval (cs.IR)', 'Computation (stat.CO)', 'Machine Learning (stat.ML)']"
+223,arXiv:2006.10123,"
+Title: A block coordinate descent optimizer for classification problems  exploiting convexity
+","
+Authors:
+Ravi G. Patel, 
+Nathaniel A. Trask, 
+Mamikon A. Gulian, 
+Eric C. Cyr
+","
+Subjects: Machine Learning (cs.LG); Machine Learning (stat.ML)
+
+","['Machine Learning (cs.LG)', 'Machine Learning (stat.ML)']"
+224,arXiv:2006.10119,"
+Title: Markovian RNN: An Adaptive Time Series Prediction Network with HMM-based  Switching for Nonstationary Environments
+","
+Authors:
+Fatih Ilhan, 
+Oguzhan Karaahmetoglu, 
+Ismail Balaban, 
+Suleyman Serdar Kozat
+","
+Subjects: Machine Learning (cs.LG); Machine Learning (stat.ML)
+
+","['Machine Learning (cs.LG)', 'Machine Learning (stat.ML)']"
+225,arXiv:2006.10114,"
+Title: Constraint-Based Regularization of Neural Networks
+","
+Authors:
+Benedict Leimkuhler, 
+Timothée Pouchon, 
+Tiffany Vlaar, 
+Amos Storkey
+","
+Subjects: Machine Learning (cs.LG); Machine Learning (stat.ML)
+
+","['Machine Learning (cs.LG)', 'Machine Learning (stat.ML)']"
+226,arXiv:2006.10110,"
+Title: Exergames for telerehabilitation
+","
+Authors:
+Satish Reddy Bethi
+","
+Subjects: Human-Computer Interaction (cs.HC)
+",['Human-Computer Interaction (cs.HC)']
+227,arXiv:2006.10108,"
+Title: Simple and Principled Uncertainty Estimation with Deterministic Deep  Learning via Distance Awareness
+","
+Authors:
+Jeremiah Zhe Liu, 
+Zi Lin, 
+Shreyas Padhy, 
+Dustin Tran, 
+Tania Bedrax-Weiss, 
+Balaji Lakshminarayanan
+","
+Subjects: Machine Learning (cs.LG); Machine Learning (stat.ML)
+
+","['Machine Learning (cs.LG)', 'Machine Learning (stat.ML)']"
+228,arXiv:2006.10104,"
+Title: Catching them red-handed: Real-time Aggression Detection on Social Media
+","
+Authors:
+Herodotos Herodotou, 
+Despoina Chatzakou, 
+Nicolas Kourtellis
+","
+Subjects: Social and Information Networks (cs.SI); Information Retrieval (cs.IR)
+
+","['Social and Information Networks (cs.SI)', 'Information Retrieval (cs.IR)']"
+229,arXiv:2006.10103,"
+Title: Is Network the Bottleneck of Distributed Training?
+","
+Authors:
+Zhen Zhang, 
+Chaokun Chang, 
+Haibin Lin, 
+Yida Wang, 
+Raman Arora, 
+Xin Jin
+","
+Subjects: Distributed, Parallel, and Cluster Computing (cs.DC); Machine Learning (cs.LG)
+
+","['Distributed, Parallel, and Cluster Computing (cs.DC)', 'Machine Learning (cs.LG)']"
+230,arXiv:2006.10102,"
+Title: Rethinking Semi-Supervised Learning in VAEs
+","
+Authors:
+Tom Joy, 
+Sebastian M. Schmon, 
+Philip H. S. Torr, 
+N. Siddharth, 
+Tom Rainforth
+","
+Subjects: Machine Learning (cs.LG); Machine Learning (stat.ML)
+
+","['Machine Learning (cs.LG)', 'Machine Learning (stat.ML)']"
+231,arXiv:2006.10096,"
+Title: Towards Recurrent Autoregressive Flow Models
+","
+Authors:
+John Mern, 
+Peter Morales, 
+Mykel J. Kochenderfer
+","
+Subjects: Machine Learning (cs.LG); Machine Learning (stat.ML)
+
+","['Machine Learning (cs.LG)', 'Machine Learning (stat.ML)']"
+232,arXiv:2006.10095,"
+Title: Nearly Optimal Robust Method for Convex Compositional Problems with  Heavy-Tailed Noise
+","
+Authors:
+Yan Yan, 
+Xin Man, 
+Tianbao Yang
+","
+Subjects: Machine Learning (cs.LG); Machine Learning (stat.ML)
+
+","['Machine Learning (cs.LG)', 'Machine Learning (stat.ML)']"
+233,arXiv:2006.10093,"
+Title: Extensively Matching for Few-shot Learning Event Detection
+","
+Authors:
+Viet Dac Lai, 
+Franck Dernoncourt, 
+Thien Huu Nguyen
+","
+Subjects: Computation and Language (cs.CL)
+",['Computation and Language (cs.CL)']
+234,arXiv:2006.10092,"
+Title: Housing Market Prediction Problem using Different Machine Learning  Algorithms: A Case Study
+","
+Authors:
+Shashi Bhushan Jha, 
+Radu F. Babiceanu, 
+Vijay Pandey, 
+Rajesh Kumar Jha
+","
+Subjects: Machine Learning (cs.LG); Machine Learning (stat.ML)
+
+","['Machine Learning (cs.LG)', 'Machine Learning (stat.ML)']"
+235,arXiv:2006.10091,"
+Title: Faster Secure Data Mining via Distributed Homomorphic Encryption
+","
+Authors:
+Junyi Li, 
+Heng Huang
+","
+Subjects: Distributed, Parallel, and Cluster Computing (cs.DC); Cryptography and Security (cs.CR); Machine Learning (cs.LG)
+
+","['Distributed, Parallel, and Cluster Computing (cs.DC)', 'Cryptography and Security (cs.CR)', 'Machine Learning (cs.LG)']"
+236,arXiv:2006.10085,"
+Title: Fair k-Means Clustering
+","
+Authors:
+Mehrdad Ghadiri, 
+Samira Samadi, 
+Santosh Vempala
+","
+Subjects: Machine Learning (cs.LG); Artificial Intelligence (cs.AI); Computational Geometry (cs.CG); Machine Learning (stat.ML)
+
+","['Machine Learning (cs.LG)', 'Artificial Intelligence (cs.AI)', 'Computational Geometry (cs.CG)', 'Machine Learning (stat.ML)']"
+237,arXiv:2006.10079,"
+Title: Overcoming Statistical Shortcuts for Open-ended Visual Counting
+","
+Authors:
+Corentin Dancette, 
+Remi Cadene, 
+Xinlei Chen, 
+Matthieu Cord
+","
+Subjects: Computer Vision and Pattern Recognition (cs.CV); Computation and Language (cs.CL); Machine Learning (cs.LG); Image and Video Processing (eess.IV)
+
+","['Computer Vision and Pattern Recognition (cs.CV)', 'Computation and Language (cs.CL)', 'Machine Learning (cs.LG)', 'Image and Video Processing (eess.IV)']"
+238,arXiv:2006.10745,"
+Title: (Non)-neutrality of science and algorithms: Machine Learning between  fundamental physics and society
+","
+Authors:
+Aniello Lampo, 
+Michele Mancarella, 
+Angelo Piga
+","
+Subjects: Physics and Society (physics.soc-ph); Computers and Society (cs.CY); History and Philosophy of Physics (physics.hist-ph)
+
+","['Physics and Society (physics.soc-ph)', 'Computers and Society (cs.CY)', 'History and Philosophy of Physics (physics.hist-ph)']"
+239,arXiv:2006.10732,"
+Title: When Does Preconditioning Help or Hurt Generalization?
+","
+Authors:
+Shun-ichi Amari, 
+Jimmy Ba, 
+Roger Grosse, 
+Xuechen Li, 
+Atsushi Nitanda, 
+Taiji Suzuki, 
+Denny Wu, 
+Ji Xu
+","
+Subjects: Machine Learning (stat.ML); Machine Learning (cs.LG)
+
+","['Machine Learning (stat.ML)', 'Machine Learning (cs.LG)']"
+240,arXiv:2006.10717,"
+Title: A flexible spiraling-metasurface as a versatile haptic interface
+","
+Authors:
+Osama R. Bilal, 
+Vincenzo Costanza, 
+Ali Israr, 
+Antonio Palermo, 
+Paolo Celli, 
+Frances Lau, 
+Chiara Daraio
+","
+Subjects: Applied Physics (physics.app-ph); Soft Condensed Matter (cond-mat.soft); Robotics (cs.RO)
+
+","['Applied Physics (physics.app-ph)', 'Soft Condensed Matter (cond-mat.soft)', 'Robotics (cs.RO)']"
+241,arXiv:2006.10695,"
+Title: Behavior of solutions to the 1D focusing stochastic nonlinear  Schrödinger equation with spatially correlated noise
+","
+Authors:
+Annie Millet, 
+Alex D Rodriguez, 
+Svetlana Roudenko, 
+Kai Yang
+","
+Subjects: Analysis of PDEs (math.AP); Numerical Analysis (math.NA); Probability (math.PR)
+
+","['Analysis of PDEs (math.AP)', 'Numerical Analysis (math.NA)', 'Probability (math.PR)']"
+242,arXiv:2006.10693,"
+Title: Quantitative Sensitivity Bounds for Nonlinear Programming and  Time-varying Optimization
+","
+Authors:
+Irina Subotić, 
+Adrian Hauswirth, 
+Florian Dörfler
+","
+Subjects: Optimization and Control (math.OC); Systems and Control (eess.SY)
+
+","['Optimization and Control (math.OC)', 'Systems and Control (eess.SY)']"
+243,arXiv:2006.10689,"
+Title: Free Energy Wells and Overlap Gap Property in Sparse PCA
+","
+Authors:
+Gérard Ben Arous, 
+Alexander S. Wein, 
+Ilias Zadik
+","
+Subjects: Probability (math.PR); Data Structures and Algorithms (cs.DS); Machine Learning (cs.LG); Optimization and Control (math.OC); Statistics Theory (math.ST)
+
+","['Probability (math.PR)', 'Data Structures and Algorithms (cs.DS)', 'Machine Learning (cs.LG)', 'Optimization and Control (math.OC)', 'Statistics Theory (math.ST)']"
+244,arXiv:2006.10670,"
+Title: On a subdiffusive tumour growth model with fractional time derivative
+","
+Authors:
+Marvin Fritz, 
+Christina Kuttler, 
+Mabel L. Rajendran, 
+Laura Scarabosio, 
+Barbara Wohlmuth
+","
+Subjects: Analysis of PDEs (math.AP); Numerical Analysis (math.NA); Cell Behavior (q-bio.CB); Tissues and Organs (q-bio.TO)
+
+","['Analysis of PDEs (math.AP)', 'Numerical Analysis (math.NA)', 'Cell Behavior (q-bio.CB)', 'Tissues and Organs (q-bio.TO)']"
+245,arXiv:2006.10666,"
+Title: Modeling indoor-level non-pharmaceutical interventions during the  COVID-19 pandemic: a pedestrian dynamics-based microscopic simulation  approach
+","
+Authors:
+Yao Xiao, 
+Mofeng Yang, 
+Zheng Zhu, 
+Hai Yang, 
+Lei Zhang, 
+Sepehr Ghader
+","
+Subjects: Physics and Society (physics.soc-ph); Multiagent Systems (cs.MA)
+
+","['Physics and Society (physics.soc-ph)', 'Multiagent Systems (cs.MA)']"
+246,arXiv:2006.10664,"
+Title: Computing techniques
+","
+Authors:
+X. Buffat
+","
+Subjects: Accelerator Physics (physics.acc-ph); Distributed, Parallel, and Cluster Computing (cs.DC); Computational Physics (physics.comp-ph)
+
+","['Accelerator Physics (physics.acc-ph)', 'Distributed, Parallel, and Cluster Computing (cs.DC)', 'Computational Physics (physics.comp-ph)']"
+247,arXiv:2006.10654,"
+Title: Toric Eigenvalue Methods for Solving Sparse Polynomial Systems
+","
+Authors:
+Matías R. Bender, 
+Simon Telen
+","
+Subjects: Algebraic Geometry (math.AG); Symbolic Computation (cs.SC)
+
+","['Algebraic Geometry (math.AG)', 'Symbolic Computation (cs.SC)']"
+248,arXiv:2006.10618,"
+Title: Converting Biomechanical Models from OpenSim to MuJoCo
+","
+Authors:
+Aleksi Ikkala, 
+Perttu Hämäläinen
+","
+Subjects: Quantitative Methods (q-bio.QM); Other Computer Science (cs.OH)
+
+","['Quantitative Methods (q-bio.QM)', 'Other Computer Science (cs.OH)']"
+249,arXiv:2006.10605,"
+Title: Riemannian Continuous Normalizing Flows
+","
+Authors:
+Emile Mathieu, 
+Maximilian Nickel
+","
+Subjects: Machine Learning (stat.ML); Machine Learning (cs.LG)
+
+","['Machine Learning (stat.ML)', 'Machine Learning (cs.LG)']"
+250,arXiv:2006.10597,"
+Title: Variational Autoencoder with Learned Latent Structure
+","
+Authors:
+Marissa C. Connor, 
+Gregory H. Canal, 
+Christopher J. Rozell
+","
+Subjects: Machine Learning (stat.ML); Machine Learning (cs.LG)
+
+","['Machine Learning (stat.ML)', 'Machine Learning (cs.LG)']"
+251,arXiv:2006.10589,"
+Title: Random walks on randomly evolving graphs
+","
+Authors:
+Leran Cai, 
+Thomas Sauerwald, 
+Luca Zanetti
+","
+Subjects: Probability (math.PR); Discrete Mathematics (cs.DM)
+
+","['Probability (math.PR)', 'Discrete Mathematics (cs.DM)']"
+252,arXiv:2006.10575,"
+Title: A Review of 1D Convolutional Neural Networks toward Unknown Substance  Identification in Portable Raman Spectrometer
+","
+Authors:
+M. Hamed Mozaffari, 
+Li-Lin Tay
+","
+Subjects: Signal Processing (eess.SP); Computer Vision and Pattern Recognition (cs.CV); Machine Learning (cs.LG)
+
+","['Signal Processing (eess.SP)', 'Computer Vision and Pattern Recognition (cs.CV)', 'Machine Learning (cs.LG)']"
+253,arXiv:2006.10567,"
+Title: Neumann spectral-Galerkin method for the inverse scattering Steklov  eigenvalues and applications
+","
+Authors:
+Isaac Harris
+","
+Subjects: Analysis of PDEs (math.AP); Numerical Analysis (math.NA)
+
+","['Analysis of PDEs (math.AP)', 'Numerical Analysis (math.NA)']"
+254,arXiv:2006.10564,"
+Title: Distribution-free binary classification: prediction sets, confidence  intervals and calibration
+","
+Authors:
+Chirag Gupta, 
+Aleksandr Podkopaev, 
+Aaditya Ramdas
+","
+Subjects: Machine Learning (stat.ML); Machine Learning (cs.LG); Methodology (stat.ME)
+
+","['Machine Learning (stat.ML)', 'Machine Learning (cs.LG)', 'Methodology (stat.ME)']"
+255,arXiv:2006.10552,"
+Title: XRayGAN: Consistency-preserving Generation of X-ray Images from  Radiology Reports
+","
+Authors:
+Xingyi Yang, 
+Nandiraju Gireesh, 
+Eric Xing, 
+Pengtao Xie
+","
+Subjects: Image and Video Processing (eess.IV); Computer Vision and Pattern Recognition (cs.CV); Machine Learning (cs.LG)
+
+","['Image and Video Processing (eess.IV)', 'Computer Vision and Pattern Recognition (cs.CV)', 'Machine Learning (cs.LG)']"
+256,arXiv:2006.10550,"
+Title: ChestX-det10: Chest X-ray Dataset on Detection of Thoracic Abnormalities
+","
+Authors:
+Jingyu Liu, 
+Jie Lian, 
+Yizhou Yu
+","
+Subjects: Image and Video Processing (eess.IV); Computer Vision and Pattern Recognition (cs.CV)
+
+","['Image and Video Processing (eess.IV)', 'Computer Vision and Pattern Recognition (cs.CV)']"
+257,arXiv:2006.10541,"
+Title: Exact posterior distributions of wide Bayesian neural networks
+","
+Authors:
+Jiri Hron, 
+Yasaman Bahri, 
+Roman Novak, 
+Jeffrey Pennington, 
+Jascha Sohl-Dickstein
+","
+Subjects: Machine Learning (stat.ML); Machine Learning (cs.LG)
+
+","['Machine Learning (stat.ML)', 'Machine Learning (cs.LG)']"
+258,arXiv:2006.10540,"
+Title: Infinite attention: NNGP and NTK for deep attention networks
+","
+Authors:
+Jiri Hron, 
+Yasaman Bahri, 
+Jascha Sohl-Dickstein, 
+Roman Novak
+","
+Subjects: Machine Learning (stat.ML); Machine Learning (cs.LG)
+
+","['Machine Learning (stat.ML)', 'Machine Learning (cs.LG)']"
+259,arXiv:2006.10495,"
+Title: A Modified Epidemiological Model to Understand the Uneven Impact of  COVID-19 on Vulnerable Individuals and the Approaches Required to Help them  Emerge from Lockdown
+","
+Authors:
+Dario Ortega Anderez, 
+Eiman Kanjo, 
+Ganna Pogrebna, 
+Shane Johnson, 
+John Alan Hunt
+","
+Subjects: Physics and Society (physics.soc-ph); Social and Information Networks (cs.SI)
+
+","['Physics and Society (physics.soc-ph)', 'Social and Information Networks (cs.SI)']"
+260,arXiv:2006.10489,"
+Title: Photometric Data-driven Classification of Type Ia Supernovae in the Open  Supernova Catalog
+","
+Authors:
+Stanislav Dobryakov, 
+Konstantin Malanchev, 
+Denis Derkach, 
+Mikhail Hushchyn
+","
+Subjects: Instrumentation and Methods for Astrophysics (astro-ph.IM); Machine Learning (cs.LG); Machine Learning (stat.ML)
+
+","['Instrumentation and Methods for Astrophysics (astro-ph.IM)', 'Machine Learning (cs.LG)', 'Machine Learning (stat.ML)']"
+261,arXiv:2006.10459,"
+Title: Stochastic bandits with arm-dependent delays
+","
+Authors:
+Anne Gael Manegueu, 
+Claire Vernade, 
+Alexandra Carpentier, 
+Michal Valko
+","
+Subjects: Machine Learning (stat.ML); Machine Learning (cs.LG)
+
+","['Machine Learning (stat.ML)', 'Machine Learning (cs.LG)']"
+262,arXiv:2006.10455,"
+Title: What Do Neural Networks Learn When Trained With Random Labels?
+","
+Authors:
+Hartmut Maennel, 
+Ibrahim Alabdulmohsin, 
+Ilya Tolstikhin, 
+Robert J. N. Baldock, 
+Olivier Bousquet, 
+Sylvain Gelly, 
+Daniel Keysers
+","
+Subjects: Machine Learning (stat.ML); Machine Learning (cs.LG)
+
+","['Machine Learning (stat.ML)', 'Machine Learning (cs.LG)']"
+263,arXiv:2006.10436,"
+Title: Low-Rank Autoregressive Tensor Completion for Multivariate Time Series  Forecasting
+","
+Authors:
+Xinyu Chen, 
+Lijun Sun
+","
+Subjects: Machine Learning (stat.ML); Machine Learning (cs.LG)
+
+","['Machine Learning (stat.ML)', 'Machine Learning (cs.LG)']"
+264,arXiv:2006.10417,"
+Title: Deep Dense and Convolutional Autoencoders for Unsupervised Anomaly  Detection in Machine Condition Sounds
+","
+Authors:
+Alexandrine Ribeiro, 
+Luis Miguel Matos, 
+Pedro Jose Pereira, 
+Eduardo C. Nunes, 
+Andre L. Ferreira, 
+Paulo Cortez, 
+Andre Pilastri
+","
+Subjects: Audio and Speech Processing (eess.AS); Machine Learning (cs.LG); Sound (cs.SD)
+
+","['Audio and Speech Processing (eess.AS)', 'Machine Learning (cs.LG)', 'Sound (cs.SD)']"
+265,arXiv:2006.10414,"
+Title: Multi-Encoder-Decoder Transformer for Code-Switching Speech Recognition
+","
+Authors:
+Xinyuan Zhou, 
+Emre Yılmaz, 
+Yanhua Long, 
+Yijie Li, 
+Haizhou Li
+","
+Subjects: Audio and Speech Processing (eess.AS); Sound (cs.SD)
+
+","['Audio and Speech Processing (eess.AS)', 'Sound (cs.SD)']"
+266,arXiv:2006.10407,"
+Title: Self-and-Mixed Attention Decoder with Deep Acoustic Structure for  Transformer-based LVCSR
+","
+Authors:
+Xinyuan Zhou, 
+Grandee Lee, 
+Emre Yılmaz, 
+Yanhua Long, 
+Jiaen Liang, 
+Haizhou Li
+","
+Subjects: Audio and Speech Processing (eess.AS); Sound (cs.SD)
+
+","['Audio and Speech Processing (eess.AS)', 'Sound (cs.SD)']"
+267,arXiv:2006.10400,"
+Title: Median Matrix Completion: from Embarrassment to Optimality
+","
+Authors:
+Weidong Liu, 
+Xiaojun Mao, 
+Raymond K. W. Wong
+","
+Subjects: Machine Learning (stat.ML); Machine Learning (cs.LG)
+
+","['Machine Learning (stat.ML)', 'Machine Learning (cs.LG)']"
+268,arXiv:2006.10390,"
+Title: Appearance Learning for Image-based Motion Estimation in Tomography
+","
+Authors:
+Alexander Preuhs, 
+Michael Manhart, 
+Philipp Roser, 
+Elisabeth Hoppe, 
+Yixing Huang, 
+Marios Psychogios, 
+Markus Kowarschik, 
+Andreas Maier
+","
+Subjects: Image and Video Processing (eess.IV); Machine Learning (cs.LG)
+
+","['Image and Video Processing (eess.IV)', 'Machine Learning (cs.LG)']"
+269,arXiv:2006.10388,"
+Title: Self-supervised Learning for Speech Enhancement
+","
+Authors:
+Yu-Che Wang, 
+Shrikant Venkataramani, 
+Paris Smaragdis
+","
+Subjects: Audio and Speech Processing (eess.AS); Sound (cs.SD)
+
+","['Audio and Speech Processing (eess.AS)', 'Sound (cs.SD)']"
+270,arXiv:2006.10363,"
+Title: Cell-Free Massive MIMO with Nonorthogonal Pilots for Internet of Things
+","
+Authors:
+Shilpa Rao (1), 
+Alexei Ashikhmin (2), 
+Hong Yang (2) ((1) Center for Pervasive Communications and Computing, UC Irvine (2) Nokia Bell Labs, Murray Hill, NJ)
+","
+Subjects: Signal Processing (eess.SP); Information Theory (cs.IT)
+
+","['Signal Processing (eess.SP)', 'Information Theory (cs.IT)']"
+271,arXiv:2006.10358,"
+Title: Cloud detection in Landsat-8 imagery in Google Earth Engine based on a  deep neural network
+","
+Authors:
+Zhixiang Yin, 
+Feng Ling, 
+Giles M. Foody, 
+Yun Du
+","
+Subjects: Image and Video Processing (eess.IV); Machine Learning (cs.LG)
+
+","['Image and Video Processing (eess.IV)', 'Machine Learning (cs.LG)']"
+272,arXiv:2006.10340,"
+Title: B{é}renger's PML on Rectangular Domains for Pauli's Equations
+","
+Authors:
+Laurence Halpern (LAGA), 
+Jeffrey Rauch
+","
+Subjects: Analysis of PDEs (math.AP); Numerical Analysis (math.NA)
+
+","['Analysis of PDEs (math.AP)', 'Numerical Analysis (math.NA)']"
+273,arXiv:2006.10325,"
+Title: When OT meets MoM: Robust estimation of Wasserstein Distance
+","
+Authors:
+Guillaume Staerman, 
+Pierre Laforgue, 
+Pavlo Mozharovskyi, 
+Florence d'Alché-Buc
+","
+Subjects: Machine Learning (stat.ML); Machine Learning (cs.LG)
+
+","['Machine Learning (stat.ML)', 'Machine Learning (cs.LG)']"
+274,arXiv:2006.10317,"
+Title: Adversarially Trained Multi-Singer Sequence-To-Sequence Singing  Synthesizer
+","
+Authors:
+Jie Wu, 
+Jian Luan
+","
+Subjects: Audio and Speech Processing (eess.AS); Machine Learning (cs.LG); Sound (cs.SD)
+
+","['Audio and Speech Processing (eess.AS)', 'Machine Learning (cs.LG)', 'Sound (cs.SD)']"
+275,arXiv:2006.10311,"
+Title: SGD for Structured Nonconvex Functions: Learning Rates, Minibatching and  Interpolation
+","
+Authors:
+Robert M. Gower, 
+Othmane Sebbouh, 
+Nicolas Loizou
+","
+Subjects: Optimization and Control (math.OC); Machine Learning (cs.LG); Machine Learning (stat.ML)
+
+","['Optimization and Control (math.OC)', 'Machine Learning (cs.LG)', 'Machine Learning (stat.ML)']"
+276,arXiv:2006.10300,"
+Title: Hyperspectral Image Super-resolution via Deep Progressive Zero-centric  Residual Learning
+","
+Authors:
+Zhiyu Zhu, 
+Junhui Hou, 
+Jie Chen, 
+Huanqiang Zeng, 
+Jiantao Zhou
+","
+Subjects: Image and Video Processing (eess.IV); Machine Learning (cs.LG)
+
+","['Image and Video Processing (eess.IV)', 'Machine Learning (cs.LG)']"
+277,arXiv:2006.10299,"
+Title: Quantum algorithm for training nonlinear SVMs in almost linear time
+","
+Authors:
+Jonathan Allcock, 
+Chang-Yu Hsieh
+","
+Subjects: Quantum Physics (quant-ph); Machine Learning (cs.LG)
+
+","['Quantum Physics (quant-ph)', 'Machine Learning (cs.LG)']"
+278,arXiv:2006.10296,"
+Title: Boosting Objective Scores of Speech Enhancement Model through MetricGAN  Post-Processing
+","
+Authors:
+Szu-Wei Fu, 
+Chien-Feng Liao, 
+Tsun-An Hsieh, 
+Kuo-Hsuan Hung, 
+Syu-Siang Wang, 
+Cheng Yu, 
+Heng-Cheng Kuo, 
+Ryandhimas E. Zezario, 
+You-Jin Li, 
+Shang-Yi Chuang, 
+Yen-Ju Lu, 
+Yu Tsao
+","
+Subjects: Audio and Speech Processing (eess.AS); Machine Learning (cs.LG); Sound (cs.SD)
+
+","['Audio and Speech Processing (eess.AS)', 'Machine Learning (cs.LG)', 'Sound (cs.SD)']"
+279,arXiv:2006.10288,"
+Title: Individual Calibration with Randomized Forecasting
+","
+Authors:
+Shengjia Zhao, 
+Tengyu Ma, 
+Stefano Ermon
+","
+Subjects: Machine Learning (stat.ML); Machine Learning (cs.LG)
+
+","['Machine Learning (stat.ML)', 'Machine Learning (cs.LG)']"
+280,arXiv:2006.10287,"
+Title: A Framework for Sample Efficient Interval Estimation with Control  Variates
+","
+Authors:
+Shengjia Zhao, 
+Christopher Yeh, 
+Stefano Ermon
+","
+Subjects: Machine Learning (stat.ML); Machine Learning (cs.LG)
+
+","['Machine Learning (stat.ML)', 'Machine Learning (cs.LG)']"
+281,arXiv:2006.10281,"
+Title: Stochastic Variance Reduction via Accelerated Dual Averaging for  Finite-Sum Optimization
+","
+Authors:
+Chaobing Song, 
+Yong Jiang, 
+Yi Ma
+","
+Subjects: Optimization and Control (math.OC); Machine Learning (cs.LG)
+
+","['Optimization and Control (math.OC)', 'Machine Learning (cs.LG)']"
+282,arXiv:2006.10277,"
+Title: Active Learning for Nonlinear System Identification with Guarantees
+","
+Authors:
+Horia Mania, 
+Michael I. Jordan, 
+Benjamin Recht
+","
+Subjects: Machine Learning (stat.ML); Machine Learning (cs.LG); Optimization and Control (math.OC)
+
+","['Machine Learning (stat.ML)', 'Machine Learning (cs.LG)', 'Optimization and Control (math.OC)']"
+283,arXiv:2006.10275,"
+Title: Structured Massive Access for Scalable Cell-Free Massive MIMO Systems
+","
+Authors:
+Shuaifei Chen, 
+Jiayi Zhang, 
+Emil Björnson, 
+Jing Zhang, 
+Bo Ai
+","
+Subjects: Signal Processing (eess.SP); Information Theory (cs.IT)
+
+","['Signal Processing (eess.SP)', 'Information Theory (cs.IT)']"
+284,arXiv:2006.10274,"
+Title: Guarantees for Hierarchical Clustering by the Sublevel Set method
+","
+Authors:
+Marina Meila
+","
+Subjects: Machine Learning (stat.ML); Machine Learning (cs.LG)
+
+","['Machine Learning (stat.ML)', 'Machine Learning (cs.LG)']"
+285,arXiv:2006.10254,"
+Title: Neural Manifold Ordinary Differential Equations
+","
+Authors:
+Aaron Lou, 
+Derek Lim, 
+Isay Katsman, 
+Leo Huang, 
+Qingxuan Jiang, 
+Ser-Nam Lim, 
+Christopher De Sa
+","
+Subjects: Machine Learning (stat.ML); Machine Learning (cs.LG); Differential Geometry (math.DG)
+
+","['Machine Learning (stat.ML)', 'Machine Learning (cs.LG)', 'Differential Geometry (math.DG)']"
+286,arXiv:2006.10253,"
+Title: Apollonius Allocation Algorithm for Heterogeneous Pursuers to Capture  Multiple Evaders
+","
+Authors:
+Venkata Ramana Makkapati, 
+Panagiotis Tsiotras
+","
+Subjects: Optimization and Control (math.OC); Robotics (cs.RO); Systems and Control (eess.SY)
+
+","['Optimization and Control (math.OC)', 'Robotics (cs.RO)', 'Systems and Control (eess.SY)']"
+287,arXiv:2006.10216,"
+Title: Generating Fundus Fluorescence Angiography Images from Structure Fundus  Images Using Generative Adversarial Networks
+","
+Authors:
+Wanyue Li, 
+Wen Kong, 
+Yiwei Chen, 
+Jing Wang, 
+Yi He, 
+Guohua Shi, 
+Guohua Deng
+","
+Subjects: Image and Video Processing (eess.IV); Computer Vision and Pattern Recognition (cs.CV)
+
+","['Image and Video Processing (eess.IV)', 'Computer Vision and Pattern Recognition (cs.CV)']"
+288,arXiv:2006.10179,"
+Title: Competitive Mirror Descent
+","
+Authors:
+Florian Schäfer, 
+Anima Anandkumar, 
+Houman Owhadi
+","
+Subjects: Optimization and Control (math.OC); Computer Science and Game Theory (cs.GT); Machine Learning (cs.LG)
+
+","['Optimization and Control (math.OC)', 'Computer Science and Game Theory (cs.GT)', 'Machine Learning (cs.LG)']"
+289,arXiv:2006.10178,"
+Title: Variational State-Space Models for Localisation and Dense 3D Mapping in  6 DoF
+","
+Authors:
+Atanas Mirchev, 
+Baris Kayalibay, 
+Patrick van der Smagt, 
+Justin Bayer
+","
+Subjects: Machine Learning (stat.ML); Computer Vision and Pattern Recognition (cs.CV); Machine Learning (cs.LG)
+
+","['Machine Learning (stat.ML)', 'Computer Vision and Pattern Recognition (cs.CV)', 'Machine Learning (cs.LG)']"
+290,arXiv:2006.10160,"
+Title: Matern Gaussian processes on Riemannian manifolds
+","
+Authors:
+Viacheslav Borovitskiy, 
+Alexander Terenin, 
+Peter Mostowsky, 
+Marc Peter Deisenroth
+","
+Subjects: Machine Learning (stat.ML); Machine Learning (cs.LG)
+
+","['Machine Learning (stat.ML)', 'Machine Learning (cs.LG)']"
+291,arXiv:2006.10159,"
+Title: Ultra Low-latency, Low-area Inference Accelerators using Heterogeneous  Deep Quantization with QKeras and hls4ml
+","
+Authors:
+Claudionor N. Coelho Jr., 
+Aki Kuusela, 
+Hao Zhuang, 
+Thea Aarrestad, 
+Vladimir Loncar, 
+Jennifer Ngadiuba, 
+Maurizio Pierini, 
+Sioni Summers
+","
+Subjects: Instrumentation and Detectors (physics.ins-det); Machine Learning (cs.LG); Image and Video Processing (eess.IV); Signal Processing (eess.SP); High Energy Physics - Experiment (hep-ex)
+
+","['Instrumentation and Detectors (physics.ins-det)', 'Machine Learning (cs.LG)', 'Image and Video Processing (eess.IV)', 'Signal Processing (eess.SP)', 'High Energy Physics - Experiment (hep-ex)']"
+292,arXiv:2006.10152,"
+Title: Extremal overlap-free and extremal $β$-free binary words
+","
+Authors:
+Lucas Mol, 
+Narad Rampersad, 
+Jeffrey Shallit
+","
+Subjects: Combinatorics (math.CO); Discrete Mathematics (cs.DM); Formal Languages and Automata Theory (cs.FL)
+
+","['Combinatorics (math.CO)', 'Discrete Mathematics (cs.DM)', 'Formal Languages and Automata Theory (cs.FL)']"
+293,arXiv:2006.10148,"
+Title: The Essential Role of Empirical Validation in Legislative Redistricting  Simulation
+","
+Authors:
+Benjamin Fifield, 
+Kosuke Imai, 
+Jun Kawahara, 
+Christopher T. Kenny
+","
+Subjects: Applications (stat.AP); Computers and Society (cs.CY)
+
+","['Applications (stat.AP)', 'Computers and Society (cs.CY)']"
+294,arXiv:2006.10147,"
+Title: Are you wearing a mask? Improving mask detection from speech using  augmentation by cycle-consistent GANs
+","
+Authors:
+Nicolae-Cătălin Ristea, 
+Radu Tudor Ionescu
+","
+Subjects: Audio and Speech Processing (eess.AS); Computer Vision and Pattern Recognition (cs.CV); Sound (cs.SD)
+
+","['Audio and Speech Processing (eess.AS)', 'Computer Vision and Pattern Recognition (cs.CV)', 'Sound (cs.SD)']"
+295,arXiv:2006.10142,"
+Title: A parallel hybrid implementation of the 2D acoustic wave equation
+","
+Authors:
+Arshyn Altybay, 
+Michael Ruzhansky, 
+Niyaz Tokmagambetov
+","
+Subjects: Computational Physics (physics.comp-ph); Analysis of PDEs (math.AP); Numerical Analysis (math.NA)
+
+","['Computational Physics (physics.comp-ph)', 'Analysis of PDEs (math.AP)', 'Numerical Analysis (math.NA)']"
+296,arXiv:2006.10137,"
+Title: MoFlow: An Invertible Flow Model for Generating Molecular Graphs
+","
+Authors:
+Chengxi Zang, 
+Fei Wang
+","
+Subjects: Machine Learning (stat.ML); Machine Learning (cs.LG); Chemical Physics (physics.chem-ph)
+
+","['Machine Learning (stat.ML)', 'Machine Learning (cs.LG)', 'Chemical Physics (physics.chem-ph)']"
+297,arXiv:2006.10126,"
+Title: Using Weighted P-Values in Fisher's Method
+","
+Authors:
+Arvind Thiagarajan
+","
+Subjects: Methodology (stat.ME); Machine Learning (cs.LG); Statistics Theory (math.ST); Computation (stat.CO)
+
+","['Methodology (stat.ME)', 'Machine Learning (cs.LG)', 'Statistics Theory (math.ST)', 'Computation (stat.CO)']"
+298,arXiv:2006.10112,"
+Title: Interface learning of multiphysics and multiscale systems
+","
+Authors:
+Shady E. Ahmed, 
+Omer San, 
+Kursat Kara, 
+Rami Younis, 
+Adil Rasheed
+","
+Subjects: Computational Physics (physics.comp-ph); Machine Learning (cs.LG); Fluid Dynamics (physics.flu-dyn)
+
+","['Computational Physics (physics.comp-ph)', 'Machine Learning (cs.LG)', 'Fluid Dynamics (physics.flu-dyn)']"
+299,arXiv:2006.10044,"
+Title: Hybrid Beamforming Structure for Massive MIMO System: Full-connection  v.s. Partial-connection
+","
+Authors:
+Zheda Li, 
+Shengqian Han, 
+Andreas F. Molisch
+","
+Subjects: Signal Processing (eess.SP); Information Theory (cs.IT)
+
+","['Signal Processing (eess.SP)', 'Information Theory (cs.IT)']"
+300,arXiv:2006.09611,"
+Title: Learning a functional control for high-frequency finance
+","
+Authors:
+Laura Leal, 
+Mathieu Laurière, 
+Charles-Albert Lehalle
+","
+Subjects: Optimization and Control (math.OC); Computational Engineering, Finance, and Science (cs.CE); Machine Learning (cs.LG); Computational Finance (q-fin.CP); Trading and Market Microstructure (q-fin.TR)
+
+","['Optimization and Control (math.OC)', 'Computational Engineering, Finance, and Science (cs.CE)', 'Machine Learning (cs.LG)', 'Computational Finance (q-fin.CP)', 'Trading and Market Microstructure (q-fin.TR)']"
